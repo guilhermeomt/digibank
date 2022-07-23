@@ -1,0 +1,10 @@
+<button
+  [ngClass]="{
+    primary: variant === 'primary',
+    secondary: variant === 'secondary',
+    cta: variant === 'cta',
+    outline: outlined
+  }"
+>
+  <ng-content></ng-content>
+</button>

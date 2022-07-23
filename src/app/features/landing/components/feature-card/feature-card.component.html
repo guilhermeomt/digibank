@@ -1,0 +1,16 @@
+<div class="card">
+  <div class="icon" style="background-color: {{ bgColor }}">
+    <ng-icon
+      size="22px"
+      color="{{ iconColor }}"
+      name="{{ iconName }}"
+    ></ng-icon>
+  </div>
+  <h4>
+    <ng-content></ng-content>
+  </h4>
+  <a href="#">
+    Leia mais
+    <ng-icon name="feather-chevron-right"></ng-icon>
+  </a>
+</div>

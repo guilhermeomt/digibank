@@ -1,0 +1,24 @@
+.features {
+  padding: 7rem 4rem 9rem;
+
+  h5 {
+    font-weight: 600;
+    color: var(--color-primary-light);
+    text-transform: uppercase;
+    letter-spacing: 0.4rem;
+    margin-bottom: 1.25rem;
+    text-align: center;
+  }
+
+  h2 {
+    font-size: 50px;
+    margin-bottom: 6rem;
+    text-align: center;
+  }
+
+  .cards {
+    display: flex;
+    justify-content: center;
+    gap: 3rem;
+  }
+}

@@ -1,2 +1,19 @@
 <app-header></app-header>
 <app-hero></app-hero>
+<section class="features">
+  <h5>Zero Burocracia</h5>
+  <h2>
+    Aqui, seu tempo rende tanto quanto <br />
+    seu dinheiro.
+  </h2>
+  <div class="cards">
+    <app-feature-card
+      *ngFor="let feature of features"
+      [iconName]="feature.iconName"
+      [iconColor]="feature.iconColor"
+      [bgColor]="feature.bgColor"
+    >
+      {{ feature.title }}
+    </app-feature-card>
+  </div>
+</section>

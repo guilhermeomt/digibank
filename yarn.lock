@@ -1291,6 +1291,13 @@
   dependencies:
     tslib "^2.2.0"
 
+"@ng-icons/tabler-icons@^19.0.0":
+  version "19.0.0"
+  resolved "https://registry.yarnpkg.com/@ng-icons/tabler-icons/-/tabler-icons-19.0.0.tgz#f0ddc800096b83e1a032cb2f0bf897244eb7cbc7"
+  integrity sha512-jlkRtNtZYK0CKmDJd0jw5bqaTbUjMH6+oK0u4rmrXgqfodsAbBztB+s6nX+RYwaO8qy9wCTOeo6YzyDfCCQQNQ==
+  dependencies:
+    tslib "^2.2.0"
+
 "@ngtools/webpack@13.3.9":
   version "13.3.9"
   resolved "https://registry.yarnpkg.com/@ngtools/webpack/-/webpack-13.3.9.tgz#31618a43095f9dee96ece9014c3f10a097914633"

@@ -11,9 +11,10 @@ import {
 } from '@ng-icons/feather-icons';
 import { ButtonComponent } from './components/button/button.component';
 import { FooterComponent } from './components/footer/footer.component';
+import { FormControlComponent } from './components/form-control/form-control.component';
 
 @NgModule({
-  declarations: [HeaderComponent, ButtonComponent, FooterComponent],
+  declarations: [HeaderComponent, ButtonComponent, FooterComponent, FormControlComponent],
   imports: [
     CommonModule,
     NgIconsModule.withIcons({
@@ -24,6 +25,6 @@ import { FooterComponent } from './components/footer/footer.component';
       FeatherYoutube,
     }),
   ],
-  exports: [HeaderComponent, ButtonComponent, FooterComponent],
+  exports: [HeaderComponent, ButtonComponent, FooterComponent, FormControlComponent],
 })
 export class SharedModule {}

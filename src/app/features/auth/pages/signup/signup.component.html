@@ -1,0 +1,101 @@
+<app-header></app-header>
+<main>
+  <div class="left">
+    <div>
+      <img
+        src="https://nubank.com.br/_next/static/images/13a595e1ccd1d41a74ed55d9a674b3b8-card-with-phone-lg@1x.jpg.webp"
+        alt=" "
+      />
+    </div>
+    <div class="title">
+      <h1>
+        Com o
+        <span>digi<span class="green">bank</span> </span>
+        a resposta vem em menos de 1 minuto
+      </h1>
+    </div>
+  </div>
+  <form class="right">
+    <div class="step">
+      <p>
+        <ng-icon name="feather-user"></ng-icon>
+        Insira seus dados
+      </p>
+      <hr />
+    </div>
+    <div class="form-group">
+      <app-form-control label="cpf" type="text" placeholder="Insira seu CPF">
+        CPF
+      </app-form-control>
+      <app-form-control
+        label="name"
+        type="text"
+        placeholder="Insira seu nome completo"
+      >
+        Nome completo
+      </app-form-control>
+      <app-form-control
+        label="email"
+        type="email"
+        placeholder="Insira seu e-mail"
+      >
+        E-mail
+      </app-form-control>
+      <app-form-control
+        label="email_confirmation"
+        type="email"
+        placeholder="Insira a confirmação de e-mail"
+      >
+        Confirmação de e-mail
+      </app-form-control>
+      <app-form-control label="phone" type="text" placeholder="(99) 99999-9999">
+        Telefone
+      </app-form-control>
+    </div>
+    <div class="step">
+      <p>
+        <ng-icon name="tabler-hand-click"></ng-icon>
+        Escolha a melhor opção para você
+      </p>
+      <hr />
+    </div>
+    <ul class="options">
+      <li id="item-0" (click)="changeItem(0)">
+        <div style="display: flex; gap: 8px">
+          <ng-icon size="18px" name="feather-credit-card"></ng-icon>
+          <ng-icon size="18px" name="tabler-pig"></ng-icon>
+        </div>
+        <span>Cartão de Crédito + Conta</span>
+      </li>
+      <li id="item-1" (click)="changeItem(1)">
+        <ng-icon size="18px" name="feather-credit-card"></ng-icon>
+        <span>Somente o Cartão de Crédito</span>
+      </li>
+      <li id="item-2" (click)="changeItem(2)">
+        <ng-icon size="18px" name="tabler-pig"></ng-icon>
+        <span>Somente a Conta digibank</span>
+      </li>
+    </ul>
+
+    <div class="step">
+      <hr />
+    </div>
+    <div class="check">
+      <input type="checkbox" />
+      <p>
+        Eu li, estou ciente das condições de tratamento dos meus dados pessoais
+        e dou meu consentimento, quando aplicável, conforme descrito nesta
+        <a
+          href="
+      "
+        >
+          Política de Privacidade
+        </a>
+      </p>
+    </div>
+    <div class="submit">
+      <app-button> Enviar </app-button>
+    </div>
+  </form>
+</main>
+<app-footer></app-footer>

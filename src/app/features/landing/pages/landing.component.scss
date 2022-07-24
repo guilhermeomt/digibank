@@ -71,3 +71,36 @@
     }
   }
 }
+
+.info {
+  padding: 11rem 3rem;
+
+  ul {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 3rem;
+
+    li {
+      max-width: 400px;
+    }
+
+    h5 {
+      font-size: 20px;
+      font-weight: 600;
+      text-transform: uppercase;
+      color: var(--color-primary-light);
+    }
+
+    h3 {
+      font-size: 36px;
+      font-weight: 600;
+      margin: 1rem 0;
+    }
+
+    h4 {
+      font-size: 22px;
+      font-weight: 500;
+      color: #868686;
+    }
+  }
+}

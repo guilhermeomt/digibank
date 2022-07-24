@@ -1,0 +1,7 @@
+<ng-container *ngIf="isVisible">
+  <div class="modal">
+    <button class="btn-close" (click)="toggleModal()">x</button>
+    <ng-content></ng-content>
+  </div>
+  <div (click)="toggleModal()" class="overlay"></div>
+</ng-container>

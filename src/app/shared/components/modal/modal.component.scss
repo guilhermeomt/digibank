@@ -1,0 +1,41 @@
+.modal {
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px #333;
+  min-width: 320px;
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 5000;
+
+  .btn-close {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    top: 7px;
+    right: 10px;
+    border-radius: 50%;
+    border: 0;
+    font-size: 28px;
+    color: #303030;
+    cursor: pointer;
+    background: transparent;
+
+    &:hover {
+      color: #000;
+    }
+  }
+}
+
+.overlay {
+  background: rgb(0, 0, 0, 0.8);
+  height: 100vh;
+  left: 0;
+  opacity: 0.5;
+  position: fixed;
+  top: 0;
+  width: 100vw;
+  z-index: 500;
+}

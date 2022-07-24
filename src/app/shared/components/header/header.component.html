@@ -19,8 +19,30 @@
         <a href="#">Atendimento</a>
       </li>
       <li>
-        <a href="#">Sua Conta</a>
+        <a (click)="modal.toggleModal()">Sua Conta</a>
       </li>
     </ul>
   </nav>
 </header>
+<app-modal (dataOutput)="test($event)" #modal>
+  <div class="login">
+    <div class="banner">
+      <img src="assets/images/banner.png" alt="Banner" />
+    </div>
+    <div>
+      <h3>Login</h3>
+      <form>
+        <app-form-control type="text" label="cpf_email"
+          >CPF ou E-mail</app-form-control
+        >
+        <app-form-control type="password" label="password"
+          >Senha</app-form-control
+        >
+        <app-button [outlined]="true">Entrar</app-button>
+      </form>
+      <div class="forgot-password">
+        <a href="#">Esqueci minha senha</a>
+      </div>
+    </div>
+  </div>
+</app-modal>

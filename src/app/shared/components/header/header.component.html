@@ -1,14 +1,13 @@
-<header>
+<header [ngClass]="{ shadow: scrolled }">
   <div class="logo">
-    <a href="/">
+    <a routerLink="/">
       <img src="assets/images/digibank.svg" alt="Logo" />
     </a>
   </div>
   <nav>
     <ul>
       <li>
-        <a href="#"
-          >Serviços
+        <a href="#">Serviços
           <ng-icon name="feather-chevron-down"></ng-icon>
         </a>
       </li>
@@ -32,17 +31,13 @@
     <div>
       <h3>Login</h3>
       <form>
-        <app-form-control type="text" label="cpf_email"
-          >CPF ou E-mail</app-form-control
-        >
-        <app-form-control type="password" label="password"
-          >Senha</app-form-control
-        >
+        <app-form-control type="text" label="cpf_email">CPF ou E-mail</app-form-control>
+        <app-form-control type="password" label="password">Senha</app-form-control>
         <app-button [outlined]="true">Entrar</app-button>
+        <div class="forgot-password">
+          <a href="#">Esqueci minha senha</a>
+        </div>
       </form>
-      <div class="forgot-password">
-        <a href="#">Esqueci minha senha</a>
-      </div>
     </div>
   </div>
 </app-modal>

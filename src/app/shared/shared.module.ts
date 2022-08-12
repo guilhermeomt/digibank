@@ -13,9 +13,16 @@ import { ButtonComponent } from './components/button/button.component';
 import { FooterComponent } from './components/footer/footer.component';
 import { FormControlComponent } from './components/form-control/form-control.component';
 import { ModalComponent } from './components/modal/modal.component';
+import { RouterModule } from '@angular/router';
 
 @NgModule({
-  declarations: [HeaderComponent, ButtonComponent, FooterComponent, FormControlComponent, ModalComponent],
+  declarations: [
+    HeaderComponent,
+    ButtonComponent,
+    FooterComponent,
+    FormControlComponent,
+    ModalComponent,
+  ],
   imports: [
     CommonModule,
     NgIconsModule.withIcons({
@@ -25,7 +32,14 @@ import { ModalComponent } from './components/modal/modal.component';
       FeatherInstagram,
       FeatherYoutube,
     }),
+    RouterModule,
   ],
-  exports: [HeaderComponent, ButtonComponent, FooterComponent, FormControlComponent, ModalComponent],
+  exports: [
+    HeaderComponent,
+    ButtonComponent,
+    FooterComponent,
+    FormControlComponent,
+    ModalComponent,
+  ],
 })
 export class SharedModule {}

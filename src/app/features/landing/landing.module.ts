@@ -12,6 +12,7 @@ import {
   FeatherRepeat,
 } from '@ng-icons/feather-icons';
 import { FeatureCardComponent } from './components/feature-card/feature-card.component';
+import { RouterModule } from '@angular/router';
 
 @NgModule({
   declarations: [LandingComponent, HeroComponent, FeatureCardComponent],
@@ -25,6 +26,7 @@ import { FeatureCardComponent } from './components/feature-card/feature-card.com
       FeatherBarChart,
       FeatherRepeat,
     }),
+    RouterModule,
   ],
   exports: [LandingComponent],
 })

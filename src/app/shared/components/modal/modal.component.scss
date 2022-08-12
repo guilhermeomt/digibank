@@ -8,6 +8,7 @@
   top: 50%;
   transform: translate(-50%, -50%);
   z-index: 5000;
+  animation: fadeIn 0.3s ease-in-out;
 
   .btn-close {
     position: absolute;
@@ -38,4 +39,14 @@
   top: 0;
   width: 100vw;
   z-index: 500;
+}
+
+@keyframes fadeIn {
+  0% {
+    transform: translate(-50%, -70%);
+  }
+
+  to {
+    transform: translate(-50%, -50%);
+  }
 }

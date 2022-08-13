@@ -1,27 +1,58 @@
-# Digibank
+<p align="center">
+  <img src=".github/assets/digibank.svg" alt="Digibank">
+</p>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.6.
+> digibank, menos banco, mais #digital
 
-## Development server
+digibank é um banco digital que oferece soluções de criptomoedas e carteiras de crédito!
+Este repositório contém o código-fonte para a plataforma web do digibank. O projeto foi desenvolvido como parte do projeto final para o bootcamp da MJV School que, por sua vez, é mantido pela [MJV](https://www.mjvinnovation.com/pt-br/).
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Tecnologias utilizadas
 
-## Code scaffolding
+- **Linguagem de Programação:** TypeScript
+- **Ambiente de Execução:** NodeJS
+- **Framework Front-end:** Angular
+  - Ícones: ng-icons
+- **Estilização:** Sass
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Captura(s) de Tela
 
-## Build
+<img src=".github/assets/digibank.png">
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Futuras Implementações
 
-## Running unit tests
+- [ ] Implementar mock de API
+- [ ] Implementar autenticação e autorização
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Como executar
 
-## Running end-to-end tests
+1. Clone os repositórios do projeto
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+```bash
+git clone https://github.com/guilhermeomt/digibank
+```
 
-## Further help
+2. Instale as dependências
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+```bash
+cd digibank/
+npm install # ou yarn
+```
+
+3. Execute o cliente
+
+```bash
+npm start # ou yarn start
+```
+
+## Créditos
+
+- [MJV](https://www.mjvinnovation.com/pt-br/)
+  - Pelo oferecimento do curso de desenvolvimento de aplicações com Angular
+  - Pelo onboarding:
+    - [Ieda de Paula](https://www.linkedin.com/in/iedadepaula/)
+  - E os professores:
+    - [Nathan Carlos](https://github.com/NathanCarlos)
+    - [Alan Jhonnes](https://github.com/alanjhonnes)
+- [Diego Cassol](https://www.linkedin.com/in/diego-cassol-b99473227/)
+  - Pelo design da interface de usuário do digibank

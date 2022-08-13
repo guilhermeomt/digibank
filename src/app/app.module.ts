@@ -6,6 +6,10 @@ import { AppComponent } from './app.component';
 import { SharedModule } from './shared/shared.module';
 import { LandingModule } from './features/landing/landing.module';
 
+import mockServer from './app.mock';
+
+mockServer();
+
 @NgModule({
   declarations: [AppComponent],
   imports: [BrowserModule, AppRoutingModule, SharedModule, LandingModule],

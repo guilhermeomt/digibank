@@ -1,3 +1,4 @@
+import { HttpClient } from '@angular/common/http';
 import { Component, OnInit } from '@angular/core';
 
 @Component({
@@ -7,9 +8,19 @@ import { Component, OnInit } from '@angular/core';
 export class SignupComponent implements OnInit {
   previousItem: number = -1;
 
-  constructor() {}
+  constructor(private http: HttpClient) {}
 
-  ngOnInit(): void {}
+  ngOnInit(): void {
+    this.http.get('/api/customers').subscribe((data) => {
+      console.log(data);
+    });
+    this.http.get('/api/accounts').subscribe((data) => {
+      console.log(data);
+    });
+    this.http.get('/api/cards').subscribe((data) => {
+      console.log(data);
+    });
+  }
 
   changeItem(id: number) {
     if (this.previousItem !== -1) {

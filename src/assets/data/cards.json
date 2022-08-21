@@ -1,0 +1,3002 @@
+[
+  {
+    "number": "8638-5407-3631-8196",
+    "family": "Premium",
+    "credit_limit": 530000,
+    "customer_id": "CC67088"
+  },
+  {
+    "number": "7106-4239-7093-1515",
+    "family": "Gold",
+    "credit_limit": 18000,
+    "customer_id": "CC12076"
+  },
+  {
+    "number": "6492-5655-8241-3530",
+    "family": "Premium",
+    "credit_limit": 596000,
+    "customer_id": "CC97173"
+  },
+  {
+    "number": "2868-5606-5152-5706",
+    "family": "Gold",
+    "credit_limit": 27000,
+    "customer_id": "CC55858"
+  },
+  {
+    "number": "1438-6906-2509-8219",
+    "family": "Platinum",
+    "credit_limit": 142000,
+    "customer_id": "CC90518"
+  },
+  {
+    "number": "2764-7023-8396-5255",
+    "family": "Gold",
+    "credit_limit": 50000,
+    "customer_id": "CC49168"
+  },
+  {
+    "number": "4864-7119-5608-7611",
+    "family": "Premium",
+    "credit_limit": 781000,
+    "customer_id": "CC66746"
+  },
+  {
+    "number": "5160-8427-6529-3274",
+    "family": "Premium",
+    "credit_limit": 490000,
+    "customer_id": "CC28930"
+  },
+  {
+    "number": "6691-5105-1556-4131",
+    "family": "Premium",
+    "credit_limit": 640000,
+    "customer_id": "CC76766"
+  },
+  {
+    "number": "1481-2536-2178-7547",
+    "family": "Premium",
+    "credit_limit": 653000,
+    "customer_id": "CC18007"
+  },
+  {
+    "number": "1355-1728-8274-9593",
+    "family": "Premium",
+    "credit_limit": 660000,
+    "customer_id": "CC23267"
+  },
+  {
+    "number": "9621-6787-7890-7470",
+    "family": "Platinum",
+    "credit_limit": 53000,
+    "customer_id": "CC52613"
+  },
+  {
+    "number": "6385-4594-8055-9081",
+    "family": "Premium",
+    "credit_limit": 737000,
+    "customer_id": "CC96267"
+  },
+  {
+    "number": "2595-8621-2855-9119",
+    "family": "Premium",
+    "credit_limit": 564000,
+    "customer_id": "CC22050"
+  },
+  {
+    "number": "7214-4915-6387-5429",
+    "family": "Platinum",
+    "credit_limit": 172000,
+    "customer_id": "CC72302"
+  },
+  {
+    "number": "7908-3850-6633-2606",
+    "family": "Gold",
+    "credit_limit": 43000,
+    "customer_id": "CC71044"
+  },
+  {
+    "number": "6574-5513-6101-1905",
+    "family": "Gold",
+    "credit_limit": 13000,
+    "customer_id": "CC95639"
+  },
+  {
+    "number": "4203-2936-4855-8802",
+    "family": "Gold",
+    "credit_limit": 35000,
+    "customer_id": "CC19302"
+  },
+  {
+    "number": "6239-8641-8524-9441",
+    "family": "Gold",
+    "credit_limit": 26000,
+    "customer_id": "CC18438"
+  },
+  {
+    "number": "1259-5241-3561-1773",
+    "family": "Gold",
+    "credit_limit": 31000,
+    "customer_id": "CC96267"
+  },
+  {
+    "number": "1113-9175-3253-8426",
+    "family": "Gold",
+    "credit_limit": 4000,
+    "customer_id": "CC51598"
+  },
+  {
+    "number": "6244-6800-1680-7174",
+    "family": "Premium",
+    "credit_limit": 751000,
+    "customer_id": "CC43306"
+  },
+  {
+    "number": "6228-9033-3508-8121",
+    "family": "Gold",
+    "credit_limit": 33000,
+    "customer_id": "CC36771"
+  },
+  {
+    "number": "1466-1600-9312-7604",
+    "family": "Premium",
+    "credit_limit": 249000,
+    "customer_id": "CC60926"
+  },
+  {
+    "number": "6557-2662-6932-6028",
+    "family": "Platinum",
+    "credit_limit": 96000,
+    "customer_id": "CC21717"
+  },
+  {
+    "number": "9310-6095-5617-9905",
+    "family": "Gold",
+    "credit_limit": 6000,
+    "customer_id": "CC31781"
+  },
+  {
+    "number": "7586-6475-9618-3909",
+    "family": "Gold",
+    "credit_limit": 37000,
+    "customer_id": "CC51908"
+  },
+  {
+    "number": "1410-9622-6092-3445",
+    "family": "Premium",
+    "credit_limit": 508000,
+    "customer_id": "CC30635"
+  },
+  {
+    "number": "5088-4839-2639-6414",
+    "family": "Premium",
+    "credit_limit": 405000,
+    "customer_id": "CC72942"
+  },
+  {
+    "number": "9074-3311-4009-9836",
+    "family": "Gold",
+    "credit_limit": 13000,
+    "customer_id": "CC27334"
+  },
+  {
+    "number": "7179-9253-8424-9313",
+    "family": "Premium",
+    "credit_limit": 899000,
+    "customer_id": "CC32209"
+  },
+  {
+    "number": "1846-7945-5251-4091",
+    "family": "Premium",
+    "credit_limit": 752000,
+    "customer_id": "CC99214"
+  },
+  {
+    "number": "6722-7299-6082-7974",
+    "family": "Gold",
+    "credit_limit": 34000,
+    "customer_id": "CC87034"
+  },
+  {
+    "number": "1235-8656-9164-2644",
+    "family": "Premium",
+    "credit_limit": 307000,
+    "customer_id": "CC16796"
+  },
+  {
+    "number": "8794-7936-2566-9238",
+    "family": "Gold",
+    "credit_limit": 4000,
+    "customer_id": "CC36590"
+  },
+  {
+    "number": "2640-5294-8252-8817",
+    "family": "Platinum",
+    "credit_limit": 197000,
+    "customer_id": "CC70762"
+  },
+  {
+    "number": "1652-7516-1273-1992",
+    "family": "Platinum",
+    "credit_limit": 180000,
+    "customer_id": "CC62994"
+  },
+  {
+    "number": "4803-9564-9708-3189",
+    "family": "Platinum",
+    "credit_limit": 109000,
+    "customer_id": "CC73157"
+  },
+  {
+    "number": "3513-5475-4629-7570",
+    "family": "Gold",
+    "credit_limit": 40000,
+    "customer_id": "CC20216"
+  },
+  {
+    "number": "7843-4724-2851-6218",
+    "family": "Gold",
+    "credit_limit": 4000,
+    "customer_id": "CC11887"
+  },
+  {
+    "number": "2570-5181-2062-7588",
+    "family": "Platinum",
+    "credit_limit": 180000,
+    "customer_id": "CC45544"
+  },
+  {
+    "number": "1749-4777-2532-7766",
+    "family": "Platinum",
+    "credit_limit": 135000,
+    "customer_id": "CC64380"
+  },
+  {
+    "number": "3544-7836-9589-7635",
+    "family": "Premium",
+    "credit_limit": 332000,
+    "customer_id": "CC97882"
+  },
+  {
+    "number": "8272-7202-4112-6502",
+    "family": "Premium",
+    "credit_limit": 395000,
+    "customer_id": "CC77470"
+  },
+  {
+    "number": "5618-9718-9367-2102",
+    "family": "Gold",
+    "credit_limit": 14000,
+    "customer_id": "CC59340"
+  },
+  {
+    "number": "8725-3610-8060-2617",
+    "family": "Premium",
+    "credit_limit": 123000,
+    "customer_id": "CC34943"
+  },
+  {
+    "number": "9446-5484-2517-1811",
+    "family": "Gold",
+    "credit_limit": 42000,
+    "customer_id": "CC53465"
+  },
+  {
+    "number": "7908-2695-7391-7499",
+    "family": "Gold",
+    "credit_limit": 34000,
+    "customer_id": "CC53797"
+  },
+  {
+    "number": "1782-5331-5899-1813",
+    "family": "Premium",
+    "credit_limit": 749000,
+    "customer_id": "CC48867"
+  },
+  {
+    "number": "8138-6235-7062-6142",
+    "family": "Premium",
+    "credit_limit": 792000,
+    "customer_id": "CC25727"
+  },
+  {
+    "number": "3991-7326-9292-2844",
+    "family": "Premium",
+    "credit_limit": 128000,
+    "customer_id": "CC58936"
+  },
+  {
+    "number": "4375-1627-3683-5900",
+    "family": "Gold",
+    "credit_limit": 34000,
+    "customer_id": "CC70438"
+  },
+  {
+    "number": "4314-6417-5269-5130",
+    "family": "Platinum",
+    "credit_limit": 171000,
+    "customer_id": "CC59570"
+  },
+  {
+    "number": "5814-6146-3149-1775",
+    "family": "Gold",
+    "credit_limit": 46000,
+    "customer_id": "CC53348"
+  },
+  {
+    "number": "8757-6814-8721-3839",
+    "family": "Gold",
+    "credit_limit": 46000,
+    "customer_id": "CC51953"
+  },
+  {
+    "number": "2535-9251-5633-3656",
+    "family": "Premium",
+    "credit_limit": 225000,
+    "customer_id": "CC46148"
+  },
+  {
+    "number": "5296-2987-4365-6870",
+    "family": "Gold",
+    "credit_limit": 20000,
+    "customer_id": "CC63178"
+  },
+  {
+    "number": "8509-8871-7296-2015",
+    "family": "Gold",
+    "credit_limit": 48000,
+    "customer_id": "CC17004"
+  },
+  {
+    "number": "1750-2387-4085-7042",
+    "family": "Gold",
+    "credit_limit": 22000,
+    "customer_id": "CC73804"
+  },
+  {
+    "number": "6547-1222-2350-2503",
+    "family": "Gold",
+    "credit_limit": 28000,
+    "customer_id": "CC57048"
+  },
+  {
+    "number": "5564-7149-9280-5472",
+    "family": "Platinum",
+    "credit_limit": 155000,
+    "customer_id": "CC19496"
+  },
+  {
+    "number": "7199-4140-9327-8875",
+    "family": "Platinum",
+    "credit_limit": 119000,
+    "customer_id": "CC35304"
+  },
+  {
+    "number": "9933-8699-5268-4345",
+    "family": "Premium",
+    "credit_limit": 206000,
+    "customer_id": "CC70398"
+  },
+  {
+    "number": "6075-5795-3555-1281",
+    "family": "Premium",
+    "credit_limit": 469000,
+    "customer_id": "CC70548"
+  },
+  {
+    "number": "5092-6820-3830-6560",
+    "family": "Premium",
+    "credit_limit": 633000,
+    "customer_id": "CC33848"
+  },
+  {
+    "number": "3594-2190-6052-1265",
+    "family": "Platinum",
+    "credit_limit": 162000,
+    "customer_id": "CC81396"
+  },
+  {
+    "number": "7815-7711-6866-1320",
+    "family": "Premium",
+    "credit_limit": 301000,
+    "customer_id": "CC25731"
+  },
+  {
+    "number": "1464-1118-5953-6424",
+    "family": "Premium",
+    "credit_limit": 303000,
+    "customer_id": "CC14152"
+  },
+  {
+    "number": "9991-4727-7710-2269",
+    "family": "Premium",
+    "credit_limit": 341000,
+    "customer_id": "CC97660"
+  },
+  {
+    "number": "9356-9491-6534-8313",
+    "family": "Premium",
+    "credit_limit": 355000,
+    "customer_id": "CC14701"
+  },
+  {
+    "number": "7900-3001-7632-4005",
+    "family": "Gold",
+    "credit_limit": 30000,
+    "customer_id": "CC94038"
+  },
+  {
+    "number": "4663-3168-7059-6778",
+    "family": "Premium",
+    "credit_limit": 204000,
+    "customer_id": "CC44646"
+  },
+  {
+    "number": "5984-2442-3351-3695",
+    "family": "Gold",
+    "credit_limit": 10000,
+    "customer_id": "CC69750"
+  },
+  {
+    "number": "7665-2468-6158-3511",
+    "family": "Premium",
+    "credit_limit": 185000,
+    "customer_id": "CC81252"
+  },
+  {
+    "number": "3001-2844-6540-3608",
+    "family": "Gold",
+    "credit_limit": 28000,
+    "customer_id": "CC95631"
+  },
+  {
+    "number": "5094-8484-5014-6152",
+    "family": "Premium",
+    "credit_limit": 650000,
+    "customer_id": "CC66803"
+  },
+  {
+    "number": "6697-9358-9213-4896",
+    "family": "Gold",
+    "credit_limit": 13000,
+    "customer_id": "CC89895"
+  },
+  {
+    "number": "5005-7427-6443-4284",
+    "family": "Platinum",
+    "credit_limit": 112000,
+    "customer_id": "CC64111"
+  },
+  {
+    "number": "5747-7372-2770-2325",
+    "family": "Premium",
+    "credit_limit": 339000,
+    "customer_id": "CC38028"
+  },
+  {
+    "number": "5978-8449-1139-4565",
+    "family": "Gold",
+    "credit_limit": 30000,
+    "customer_id": "CC93137"
+  },
+  {
+    "number": "9030-1667-6058-6173",
+    "family": "Premium",
+    "credit_limit": 426000,
+    "customer_id": "CC61186"
+  },
+  {
+    "number": "9961-2869-2603-3317",
+    "family": "Platinum",
+    "credit_limit": 131000,
+    "customer_id": "CC43568"
+  },
+  {
+    "number": "4265-2692-1676-5635",
+    "family": "Premium",
+    "credit_limit": 683000,
+    "customer_id": "CC14547"
+  },
+  {
+    "number": "9627-1907-4419-6606",
+    "family": "Platinum",
+    "credit_limit": 103000,
+    "customer_id": "CC16925"
+  },
+  {
+    "number": "3380-5311-6073-9478",
+    "family": "Platinum",
+    "credit_limit": 190000,
+    "customer_id": "CC71781"
+  },
+  {
+    "number": "1175-3754-1370-5515",
+    "family": "Gold",
+    "credit_limit": 30000,
+    "customer_id": "CC95072"
+  },
+  {
+    "number": "4784-5120-3581-6184",
+    "family": "Gold",
+    "credit_limit": 35000,
+    "customer_id": "CC27225"
+  },
+  {
+    "number": "3414-4178-9784-9954",
+    "family": "Premium",
+    "credit_limit": 331000,
+    "customer_id": "CC23320"
+  },
+  {
+    "number": "6399-9536-6027-1857",
+    "family": "Premium",
+    "credit_limit": 401000,
+    "customer_id": "CC88518"
+  },
+  {
+    "number": "4040-7464-4000-3447",
+    "family": "Gold",
+    "credit_limit": 24000,
+    "customer_id": "CC22650"
+  },
+  {
+    "number": "8950-6403-2080-8100",
+    "family": "Gold",
+    "credit_limit": 20000,
+    "customer_id": "CC46165"
+  },
+  {
+    "number": "9027-9319-4091-7718",
+    "family": "Gold",
+    "credit_limit": 20000,
+    "customer_id": "CC21935"
+  },
+  {
+    "number": "5619-4425-5473-6565",
+    "family": "Premium",
+    "credit_limit": 730000,
+    "customer_id": "CC23352"
+  },
+  {
+    "number": "4563-2673-5152-4847",
+    "family": "Gold",
+    "credit_limit": 29000,
+    "customer_id": "CC32126"
+  },
+  {
+    "number": "1559-8764-1659-4317",
+    "family": "Gold",
+    "credit_limit": 12000,
+    "customer_id": "CC95241"
+  },
+  {
+    "number": "3168-6552-9936-1500",
+    "family": "Gold",
+    "credit_limit": 37000,
+    "customer_id": "CC23267"
+  },
+  {
+    "number": "4012-7774-6690-7055",
+    "family": "Platinum",
+    "credit_limit": 159000,
+    "customer_id": "CC29686"
+  },
+  {
+    "number": "7677-5937-2671-3687",
+    "family": "Gold",
+    "credit_limit": 38000,
+    "customer_id": "CC55171"
+  },
+  {
+    "number": "9458-1130-5333-6475",
+    "family": "Platinum",
+    "credit_limit": 166000,
+    "customer_id": "CC57989"
+  },
+  {
+    "number": "5583-9751-6086-5673",
+    "family": "Premium",
+    "credit_limit": 160000,
+    "customer_id": "CC66044"
+  },
+  {
+    "number": "4046-1968-8375-3680",
+    "family": "Platinum",
+    "credit_limit": 81000,
+    "customer_id": "CC24888"
+  },
+  {
+    "number": "5734-5619-8469-4044",
+    "family": "Gold",
+    "credit_limit": 36000,
+    "customer_id": "CC87306"
+  },
+  {
+    "number": "1693-2036-4352-9386",
+    "family": "Premium",
+    "credit_limit": 635000,
+    "customer_id": "CC26324"
+  },
+  {
+    "number": "8287-3054-9804-9342",
+    "family": "Gold",
+    "credit_limit": 23000,
+    "customer_id": "CC96154"
+  },
+  {
+    "number": "8797-7761-7623-1806",
+    "family": "Gold",
+    "credit_limit": 15000,
+    "customer_id": "CC55201"
+  },
+  {
+    "number": "5447-4124-3337-6163",
+    "family": "Platinum",
+    "credit_limit": 58000,
+    "customer_id": "CC91817"
+  },
+  {
+    "number": "5957-5032-1448-8189",
+    "family": "Premium",
+    "credit_limit": 881000,
+    "customer_id": "CC46521"
+  },
+  {
+    "number": "7164-1323-2737-4112",
+    "family": "Gold",
+    "credit_limit": 43000,
+    "customer_id": "CC13757"
+  },
+  {
+    "number": "4310-3710-6743-6385",
+    "family": "Gold",
+    "credit_limit": 46000,
+    "customer_id": "CC61838"
+  },
+  {
+    "number": "5689-2440-9593-1931",
+    "family": "Premium",
+    "credit_limit": 672000,
+    "customer_id": "CC96697"
+  },
+  {
+    "number": "2271-9253-1553-2843",
+    "family": "Premium",
+    "credit_limit": 313000,
+    "customer_id": "CC76150"
+  },
+  {
+    "number": "3226-1711-7076-2949",
+    "family": "Platinum",
+    "credit_limit": 122000,
+    "customer_id": "CC17722"
+  },
+  {
+    "number": "8691-3939-1859-5937",
+    "family": "Premium",
+    "credit_limit": 151000,
+    "customer_id": "CC33574"
+  },
+  {
+    "number": "5750-8229-8026-8893",
+    "family": "Gold",
+    "credit_limit": 21000,
+    "customer_id": "CC36555"
+  },
+  {
+    "number": "5993-5660-3442-6277",
+    "family": "Gold",
+    "credit_limit": 30000,
+    "customer_id": "CC74753"
+  },
+  {
+    "number": "6994-7925-9044-3458",
+    "family": "Premium",
+    "credit_limit": 605000,
+    "customer_id": "CC47609"
+  },
+  {
+    "number": "6514-4444-5642-2615",
+    "family": "Premium",
+    "credit_limit": 356000,
+    "customer_id": "CC60423"
+  },
+  {
+    "number": "2088-6665-3327-6898",
+    "family": "Gold",
+    "credit_limit": 8000,
+    "customer_id": "CC36641"
+  },
+  {
+    "number": "7908-8365-2086-2481",
+    "family": "Gold",
+    "credit_limit": 35000,
+    "customer_id": "CC35750"
+  },
+  {
+    "number": "8477-4051-5606-6540",
+    "family": "Gold",
+    "credit_limit": 49000,
+    "customer_id": "CC33589"
+  },
+  {
+    "number": "4783-2852-8264-4966",
+    "family": "Platinum",
+    "credit_limit": 174000,
+    "customer_id": "CC52481"
+  },
+  {
+    "number": "8590-6850-6104-5846",
+    "family": "Gold",
+    "credit_limit": 29000,
+    "customer_id": "CC34574"
+  },
+  {
+    "number": "6575-1457-7757-9141",
+    "family": "Gold",
+    "credit_limit": 45000,
+    "customer_id": "CC16994"
+  },
+  {
+    "number": "7017-9570-4103-5076",
+    "family": "Gold",
+    "credit_limit": 28000,
+    "customer_id": "CC41412"
+  },
+  {
+    "number": "8783-7271-8493-7931",
+    "family": "Premium",
+    "credit_limit": 677000,
+    "customer_id": "CC39128"
+  },
+  {
+    "number": "6015-9255-9994-6771",
+    "family": "Premium",
+    "credit_limit": 787000,
+    "customer_id": "CC64725"
+  },
+  {
+    "number": "2388-1652-4326-6035",
+    "family": "Premium",
+    "credit_limit": 854000,
+    "customer_id": "CC69012"
+  },
+  {
+    "number": "8069-5321-4131-7493",
+    "family": "Platinum",
+    "credit_limit": 74000,
+    "customer_id": "CC65981"
+  },
+  {
+    "number": "2347-2804-9899-1830",
+    "family": "Gold",
+    "credit_limit": 31000,
+    "customer_id": "CC62204"
+  },
+  {
+    "number": "8376-2481-1705-6329",
+    "family": "Gold",
+    "credit_limit": 6000,
+    "customer_id": "CC44192"
+  },
+  {
+    "number": "5129-6974-6371-2964",
+    "family": "Gold",
+    "credit_limit": 31000,
+    "customer_id": "CC62968"
+  },
+  {
+    "number": "4341-6411-1439-6094",
+    "family": "Gold",
+    "credit_limit": 41000,
+    "customer_id": "CC30988"
+  },
+  {
+    "number": "5591-5619-8809-5454",
+    "family": "Platinum",
+    "credit_limit": 140000,
+    "customer_id": "CC79161"
+  },
+  {
+    "number": "3458-8126-3660-8686",
+    "family": "Gold",
+    "credit_limit": 9000,
+    "customer_id": "CC15883"
+  },
+  {
+    "number": "7583-5046-7750-5578",
+    "family": "Premium",
+    "credit_limit": 552000,
+    "customer_id": "CC30342"
+  },
+  {
+    "number": "2568-8047-9427-1704",
+    "family": "Gold",
+    "credit_limit": 17000,
+    "customer_id": "CC50301"
+  },
+  {
+    "number": "7168-9862-2659-8550",
+    "family": "Platinum",
+    "credit_limit": 74000,
+    "customer_id": "CC13238"
+  },
+  {
+    "number": "1893-8853-9900-8478",
+    "family": "Premium",
+    "credit_limit": 417000,
+    "customer_id": "CC11165"
+  },
+  {
+    "number": "2517-1247-3682-9050",
+    "family": "Platinum",
+    "credit_limit": 142000,
+    "customer_id": "CC65030"
+  },
+  {
+    "number": "8361-7488-5303-1801",
+    "family": "Gold",
+    "credit_limit": 28000,
+    "customer_id": "CC75139"
+  },
+  {
+    "number": "4139-7870-9436-2923",
+    "family": "Gold",
+    "credit_limit": 16000,
+    "customer_id": "CC51400"
+  },
+  {
+    "number": "9138-8487-6675-4521",
+    "family": "Platinum",
+    "credit_limit": 188000,
+    "customer_id": "CC40226"
+  },
+  {
+    "number": "8408-7680-2338-9105",
+    "family": "Platinum",
+    "credit_limit": 200000,
+    "customer_id": "CC63145"
+  },
+  {
+    "number": "1123-9777-7335-9167",
+    "family": "Premium",
+    "credit_limit": 147000,
+    "customer_id": "CC43524"
+  },
+  {
+    "number": "5695-2379-4433-2485",
+    "family": "Platinum",
+    "credit_limit": 66000,
+    "customer_id": "CC36120"
+  },
+  {
+    "number": "4819-6940-5506-8061",
+    "family": "Platinum",
+    "credit_limit": 82000,
+    "customer_id": "CC90127"
+  },
+  {
+    "number": "2944-6929-3608-9991",
+    "family": "Premium",
+    "credit_limit": 892000,
+    "customer_id": "CC37044"
+  },
+  {
+    "number": "8883-9569-6241-3952",
+    "family": "Gold",
+    "credit_limit": 41000,
+    "customer_id": "CC31583"
+  },
+  {
+    "number": "6315-7338-3105-9947",
+    "family": "Premium",
+    "credit_limit": 406000,
+    "customer_id": "CC38543"
+  },
+  {
+    "number": "9161-8723-1217-5269",
+    "family": "Premium",
+    "credit_limit": 866000,
+    "customer_id": "CC89243"
+  },
+  {
+    "number": "3810-4783-2207-7703",
+    "family": "Gold",
+    "credit_limit": 49000,
+    "customer_id": "CC75362"
+  },
+  {
+    "number": "5786-9833-8038-2159",
+    "family": "Premium",
+    "credit_limit": 618000,
+    "customer_id": "CC65775"
+  },
+  {
+    "number": "5894-8042-7318-9450",
+    "family": "Premium",
+    "credit_limit": 677000,
+    "customer_id": "CC38368"
+  },
+  {
+    "number": "7377-5503-9688-7953",
+    "family": "Platinum",
+    "credit_limit": 105000,
+    "customer_id": "CC19835"
+  },
+  {
+    "number": "5731-9804-7859-1641",
+    "family": "Gold",
+    "credit_limit": 11000,
+    "customer_id": "CC82924"
+  },
+  {
+    "number": "8217-2336-2393-6960",
+    "family": "Platinum",
+    "credit_limit": 128000,
+    "customer_id": "CC23156"
+  },
+  {
+    "number": "2447-6299-5016-4953",
+    "family": "Premium",
+    "credit_limit": 497000,
+    "customer_id": "CC25881"
+  },
+  {
+    "number": "4525-4818-6014-8945",
+    "family": "Premium",
+    "credit_limit": 883000,
+    "customer_id": "CC41775"
+  },
+  {
+    "number": "9083-6711-4313-1181",
+    "family": "Platinum",
+    "credit_limit": 138000,
+    "customer_id": "CC23204"
+  },
+  {
+    "number": "7199-6959-4688-2302",
+    "family": "Gold",
+    "credit_limit": 49000,
+    "customer_id": "CC68010"
+  },
+  {
+    "number": "4027-9234-2261-8201",
+    "family": "Platinum",
+    "credit_limit": 114000,
+    "customer_id": "CC63227"
+  },
+  {
+    "number": "8066-8437-2479-2481",
+    "family": "Platinum",
+    "credit_limit": 135000,
+    "customer_id": "CC97360"
+  },
+  {
+    "number": "8904-2491-3727-6958",
+    "family": "Gold",
+    "credit_limit": 27000,
+    "customer_id": "CC38471"
+  },
+  {
+    "number": "7362-1637-8977-1963",
+    "family": "Premium",
+    "credit_limit": 881000,
+    "customer_id": "CC72351"
+  },
+  {
+    "number": "9157-2802-8374-1145",
+    "family": "Premium",
+    "credit_limit": 656000,
+    "customer_id": "CC59562"
+  },
+  {
+    "number": "1350-6303-6190-5958",
+    "family": "Premium",
+    "credit_limit": 608000,
+    "customer_id": "CC85396"
+  },
+  {
+    "number": "7224-9964-4793-3939",
+    "family": "Premium",
+    "credit_limit": 619000,
+    "customer_id": "CC22992"
+  },
+  {
+    "number": "6071-3874-2856-8755",
+    "family": "Gold",
+    "credit_limit": 22000,
+    "customer_id": "CC91701"
+  },
+  {
+    "number": "8558-3872-8287-1977",
+    "family": "Premium",
+    "credit_limit": 330000,
+    "customer_id": "CC93405"
+  },
+  {
+    "number": "6429-7684-3108-1910",
+    "family": "Premium",
+    "credit_limit": 581000,
+    "customer_id": "CC86100"
+  },
+  {
+    "number": "5563-4162-6828-9835",
+    "family": "Premium",
+    "credit_limit": 330000,
+    "customer_id": "CC25855"
+  },
+  {
+    "number": "8793-4049-9771-8176",
+    "family": "Premium",
+    "credit_limit": 844000,
+    "customer_id": "CC92551"
+  },
+  {
+    "number": "4834-4297-3113-9327",
+    "family": "Gold",
+    "credit_limit": 50000,
+    "customer_id": "CC47195"
+  },
+  {
+    "number": "3467-4873-4196-4795",
+    "family": "Premium",
+    "credit_limit": 432000,
+    "customer_id": "CC50434"
+  },
+  {
+    "number": "4843-3880-6792-2259",
+    "family": "Premium",
+    "credit_limit": 373000,
+    "customer_id": "CC38739"
+  },
+  {
+    "number": "8088-9431-7201-2877",
+    "family": "Premium",
+    "credit_limit": 548000,
+    "customer_id": "CC94516"
+  },
+  {
+    "number": "5540-8588-7666-7798",
+    "family": "Gold",
+    "credit_limit": 24000,
+    "customer_id": "CC29712"
+  },
+  {
+    "number": "8052-5734-6162-9591",
+    "family": "Premium",
+    "credit_limit": 702000,
+    "customer_id": "CC72916"
+  },
+  {
+    "number": "3762-3694-9841-5446",
+    "family": "Gold",
+    "credit_limit": 22000,
+    "customer_id": "CC95014"
+  },
+  {
+    "number": "1616-5911-1676-5466",
+    "family": "Platinum",
+    "credit_limit": 61000,
+    "customer_id": "CC15024"
+  },
+  {
+    "number": "5206-5979-9383-4538",
+    "family": "Platinum",
+    "credit_limit": 192000,
+    "customer_id": "CC90683"
+  },
+  {
+    "number": "5991-4421-8476-3804",
+    "family": "Gold",
+    "credit_limit": 19000,
+    "customer_id": "CC14871"
+  },
+  {
+    "number": "1608-1970-3705-7137",
+    "family": "Premium",
+    "credit_limit": 667000,
+    "customer_id": "CC98498"
+  },
+  {
+    "number": "7211-2168-9731-5466",
+    "family": "Gold",
+    "credit_limit": 9000,
+    "customer_id": "CC89758"
+  },
+  {
+    "number": "9546-5205-4705-9447",
+    "family": "Premium",
+    "credit_limit": 463000,
+    "customer_id": "CC94742"
+  },
+  {
+    "number": "8976-7958-2694-8171",
+    "family": "Premium",
+    "credit_limit": 817000,
+    "customer_id": "CC88367"
+  },
+  {
+    "number": "7416-4529-6690-5703",
+    "family": "Gold",
+    "credit_limit": 12000,
+    "customer_id": "CC60164"
+  },
+  {
+    "number": "7447-6644-5678-8061",
+    "family": "Platinum",
+    "credit_limit": 149000,
+    "customer_id": "CC89690"
+  },
+  {
+    "number": "3652-5528-4808-8216",
+    "family": "Gold",
+    "credit_limit": 29000,
+    "customer_id": "CC53373"
+  },
+  {
+    "number": "8850-8297-4094-3048",
+    "family": "Premium",
+    "credit_limit": 483000,
+    "customer_id": "CC13359"
+  },
+  {
+    "number": "5145-7864-6575-8768",
+    "family": "Platinum",
+    "credit_limit": 100000,
+    "customer_id": "CC56879"
+  },
+  {
+    "number": "9497-8994-1281-9719",
+    "family": "Platinum",
+    "credit_limit": 72000,
+    "customer_id": "CC91963"
+  },
+  {
+    "number": "4354-1258-5178-5618",
+    "family": "Platinum",
+    "credit_limit": 85000,
+    "customer_id": "CC64725"
+  },
+  {
+    "number": "8507-1459-7315-8148",
+    "family": "Gold",
+    "credit_limit": 9000,
+    "customer_id": "CC31344"
+  },
+  {
+    "number": "8341-5263-4582-7396",
+    "family": "Platinum",
+    "credit_limit": 129000,
+    "customer_id": "CC81000"
+  },
+  {
+    "number": "9304-4488-7872-2868",
+    "family": "Platinum",
+    "credit_limit": 165000,
+    "customer_id": "CC40526"
+  },
+  {
+    "number": "3620-5235-2101-3391",
+    "family": "Platinum",
+    "credit_limit": 121000,
+    "customer_id": "CC52744"
+  },
+  {
+    "number": "4806-6889-9908-7496",
+    "family": "Premium",
+    "credit_limit": 395000,
+    "customer_id": "CC86051"
+  },
+  {
+    "number": "8467-5358-5569-3718",
+    "family": "Gold",
+    "credit_limit": 37000,
+    "customer_id": "CC94597"
+  },
+  {
+    "number": "8685-1513-4751-8018",
+    "family": "Platinum",
+    "credit_limit": 183000,
+    "customer_id": "CC14057"
+  },
+  {
+    "number": "7296-3224-2880-5747",
+    "family": "Gold",
+    "credit_limit": 36000,
+    "customer_id": "CC28847"
+  },
+  {
+    "number": "6286-3397-5051-8445",
+    "family": "Premium",
+    "credit_limit": 507000,
+    "customer_id": "CC27713"
+  },
+  {
+    "number": "9376-8684-9599-2988",
+    "family": "Premium",
+    "credit_limit": 235000,
+    "customer_id": "CC56295"
+  },
+  {
+    "number": "8839-9467-3960-3997",
+    "family": "Gold",
+    "credit_limit": 50000,
+    "customer_id": "CC85309"
+  },
+  {
+    "number": "8481-9097-2828-9363",
+    "family": "Gold",
+    "credit_limit": 32000,
+    "customer_id": "CC29396"
+  },
+  {
+    "number": "4220-2591-3295-3300",
+    "family": "Premium",
+    "credit_limit": 411000,
+    "customer_id": "CC70263"
+  },
+  {
+    "number": "5530-2431-5627-8837",
+    "family": "Gold",
+    "credit_limit": 30000,
+    "customer_id": "CC86399"
+  },
+  {
+    "number": "6272-7021-2748-1471",
+    "family": "Gold",
+    "credit_limit": 39000,
+    "customer_id": "CC61384"
+  },
+  {
+    "number": "4262-7103-6508-4214",
+    "family": "Gold",
+    "credit_limit": 47000,
+    "customer_id": "CC50151"
+  },
+  {
+    "number": "5254-4916-6547-4795",
+    "family": "Platinum",
+    "credit_limit": 134000,
+    "customer_id": "CC20509"
+  },
+  {
+    "number": "2240-2748-8514-4335",
+    "family": "Gold",
+    "credit_limit": 29000,
+    "customer_id": "CC11671"
+  },
+  {
+    "number": "7212-8665-7734-5918",
+    "family": "Platinum",
+    "credit_limit": 55000,
+    "customer_id": "CC43841"
+  },
+  {
+    "number": "3970-3872-2591-7629",
+    "family": "Platinum",
+    "credit_limit": 179000,
+    "customer_id": "CC37463"
+  },
+  {
+    "number": "5805-3882-2982-9418",
+    "family": "Gold",
+    "credit_limit": 43000,
+    "customer_id": "CC19293"
+  },
+  {
+    "number": "3671-4079-8067-8622",
+    "family": "Platinum",
+    "credit_limit": 161000,
+    "customer_id": "CC41914"
+  },
+  {
+    "number": "5864-4475-3659-1440",
+    "family": "Gold",
+    "credit_limit": 2000,
+    "customer_id": "CC99402"
+  },
+  {
+    "number": "9604-6821-2861-8084",
+    "family": "Gold",
+    "credit_limit": 26000,
+    "customer_id": "CC16029"
+  },
+  {
+    "number": "5262-2954-4306-9001",
+    "family": "Platinum",
+    "credit_limit": 121000,
+    "customer_id": "CC82406"
+  },
+  {
+    "number": "2077-2389-7798-4862",
+    "family": "Premium",
+    "credit_limit": 642000,
+    "customer_id": "CC19277"
+  },
+  {
+    "number": "7326-9558-4788-5128",
+    "family": "Premium",
+    "credit_limit": 852000,
+    "customer_id": "CC86189"
+  },
+  {
+    "number": "2158-2612-7934-6228",
+    "family": "Gold",
+    "credit_limit": 12000,
+    "customer_id": "CC59641"
+  },
+  {
+    "number": "1655-7617-4318-5963",
+    "family": "Gold",
+    "credit_limit": 50000,
+    "customer_id": "CC93075"
+  },
+  {
+    "number": "7729-4037-1361-9467",
+    "family": "Premium",
+    "credit_limit": 671000,
+    "customer_id": "CC34817"
+  },
+  {
+    "number": "1336-9200-1264-2551",
+    "family": "Premium",
+    "credit_limit": 280000,
+    "customer_id": "CC16420"
+  },
+  {
+    "number": "8951-3220-4809-9797",
+    "family": "Premium",
+    "credit_limit": 833000,
+    "customer_id": "CC74145"
+  },
+  {
+    "number": "8711-5325-4752-4743",
+    "family": "Platinum",
+    "credit_limit": 196000,
+    "customer_id": "CC78221"
+  },
+  {
+    "number": "2342-6589-6557-6739",
+    "family": "Premium",
+    "credit_limit": 740000,
+    "customer_id": "CC53541"
+  },
+  {
+    "number": "4933-8895-6001-8577",
+    "family": "Gold",
+    "credit_limit": 20000,
+    "customer_id": "CC80950"
+  },
+  {
+    "number": "6531-1690-4324-2760",
+    "family": "Premium",
+    "credit_limit": 575000,
+    "customer_id": "CC85730"
+  },
+  {
+    "number": "8214-9590-3044-1216",
+    "family": "Premium",
+    "credit_limit": 835000,
+    "customer_id": "CC60926"
+  },
+  {
+    "number": "8159-1257-4706-7544",
+    "family": "Premium",
+    "credit_limit": 410000,
+    "customer_id": "CC34083"
+  },
+  {
+    "number": "9558-5469-2562-5608",
+    "family": "Premium",
+    "credit_limit": 596000,
+    "customer_id": "CC30954"
+  },
+  {
+    "number": "8106-9789-1679-2552",
+    "family": "Premium",
+    "credit_limit": 325000,
+    "customer_id": "CC84463"
+  },
+  {
+    "number": "2349-2290-6329-3624",
+    "family": "Premium",
+    "credit_limit": 835000,
+    "customer_id": "CC18795"
+  },
+  {
+    "number": "6415-7043-2998-3377",
+    "family": "Premium",
+    "credit_limit": 296000,
+    "customer_id": "CC99130"
+  },
+  {
+    "number": "9843-6858-7863-1891",
+    "family": "Platinum",
+    "credit_limit": 176000,
+    "customer_id": "CC15310"
+  },
+  {
+    "number": "1519-5130-5810-8539",
+    "family": "Premium",
+    "credit_limit": 742000,
+    "customer_id": "CC88046"
+  },
+  {
+    "number": "4138-5166-7490-1188",
+    "family": "Gold",
+    "credit_limit": 50000,
+    "customer_id": "CC95099"
+  },
+  {
+    "number": "7767-7920-7733-4210",
+    "family": "Premium",
+    "credit_limit": 774000,
+    "customer_id": "CC91963"
+  },
+  {
+    "number": "8231-5519-1948-3400",
+    "family": "Premium",
+    "credit_limit": 661000,
+    "customer_id": "CC71365"
+  },
+  {
+    "number": "8673-7935-5776-9119",
+    "family": "Premium",
+    "credit_limit": 281000,
+    "customer_id": "CC56752"
+  },
+  {
+    "number": "5982-5047-2653-9052",
+    "family": "Premium",
+    "credit_limit": 684000,
+    "customer_id": "CC68522"
+  },
+  {
+    "number": "9162-3465-6654-4891",
+    "family": "Gold",
+    "credit_limit": 34000,
+    "customer_id": "CC13173"
+  },
+  {
+    "number": "7815-2405-2962-6053",
+    "family": "Gold",
+    "credit_limit": 37000,
+    "customer_id": "CC85400"
+  },
+  {
+    "number": "7047-9622-9693-9968",
+    "family": "Gold",
+    "credit_limit": 37000,
+    "customer_id": "CC29028"
+  },
+  {
+    "number": "1159-7886-1385-5540",
+    "family": "Platinum",
+    "credit_limit": 163000,
+    "customer_id": "CC13567"
+  },
+  {
+    "number": "4092-8604-7363-3393",
+    "family": "Premium",
+    "credit_limit": 782000,
+    "customer_id": "CC25257"
+  },
+  {
+    "number": "2046-1892-2379-9050",
+    "family": "Premium",
+    "credit_limit": 313000,
+    "customer_id": "CC15336"
+  },
+  {
+    "number": "7752-7762-8832-3142",
+    "family": "Platinum",
+    "credit_limit": 56000,
+    "customer_id": "CC37643"
+  },
+  {
+    "number": "4203-1225-4528-2939",
+    "family": "Platinum",
+    "credit_limit": 150000,
+    "customer_id": "CC14238"
+  },
+  {
+    "number": "4530-1687-6778-1250",
+    "family": "Gold",
+    "credit_limit": 20000,
+    "customer_id": "CC67129"
+  },
+  {
+    "number": "4973-1293-1664-2086",
+    "family": "Gold",
+    "credit_limit": 23000,
+    "customer_id": "CC36447"
+  },
+  {
+    "number": "6321-2048-7733-8765",
+    "family": "Premium",
+    "credit_limit": 129000,
+    "customer_id": "CC81662"
+  },
+  {
+    "number": "6770-3803-2120-3012",
+    "family": "Premium",
+    "credit_limit": 613000,
+    "customer_id": "CC27770"
+  },
+  {
+    "number": "4338-7681-3950-6850",
+    "family": "Premium",
+    "credit_limit": 589000,
+    "customer_id": "CC53538"
+  },
+  {
+    "number": "4037-7862-8119-1361",
+    "family": "Premium",
+    "credit_limit": 867000,
+    "customer_id": "CC84380"
+  },
+  {
+    "number": "1992-1719-3506-9652",
+    "family": "Platinum",
+    "credit_limit": 63000,
+    "customer_id": "CC63063"
+  },
+  {
+    "number": "8769-1185-5731-6569",
+    "family": "Platinum",
+    "credit_limit": 80000,
+    "customer_id": "CC14997"
+  },
+  {
+    "number": "4610-9984-7768-4610",
+    "family": "Premium",
+    "credit_limit": 712000,
+    "customer_id": "CC84470"
+  },
+  {
+    "number": "6570-8163-4369-9734",
+    "family": "Gold",
+    "credit_limit": 26000,
+    "customer_id": "CC50124"
+  },
+  {
+    "number": "7708-8807-7837-8812",
+    "family": "Platinum",
+    "credit_limit": 197000,
+    "customer_id": "CC56647"
+  },
+  {
+    "number": "4661-5769-5059-2114",
+    "family": "Premium",
+    "credit_limit": 879000,
+    "customer_id": "CC45677"
+  },
+  {
+    "number": "9302-6470-7735-6371",
+    "family": "Premium",
+    "credit_limit": 869000,
+    "customer_id": "CC58963"
+  },
+  {
+    "number": "1683-2865-3396-4925",
+    "family": "Platinum",
+    "credit_limit": 63000,
+    "customer_id": "CC84372"
+  },
+  {
+    "number": "4818-7275-3513-3939",
+    "family": "Premium",
+    "credit_limit": 108000,
+    "customer_id": "CC11231"
+  },
+  {
+    "number": "4349-5976-1214-5524",
+    "family": "Premium",
+    "credit_limit": 695000,
+    "customer_id": "CC38302"
+  },
+  {
+    "number": "6479-5593-2105-9060",
+    "family": "Premium",
+    "credit_limit": 445000,
+    "customer_id": "CC18744"
+  },
+  {
+    "number": "5962-5634-2696-2739",
+    "family": "Platinum",
+    "credit_limit": 53000,
+    "customer_id": "CC91171"
+  },
+  {
+    "number": "5960-5753-3689-8262",
+    "family": "Gold",
+    "credit_limit": 30000,
+    "customer_id": "CC21935"
+  },
+  {
+    "number": "8115-7743-6213-9284",
+    "family": "Premium",
+    "credit_limit": 796000,
+    "customer_id": "CC42687"
+  },
+  {
+    "number": "3708-8801-1521-8042",
+    "family": "Platinum",
+    "credit_limit": 170000,
+    "customer_id": "CC51316"
+  },
+  {
+    "number": "6876-7378-4945-3251",
+    "family": "Gold",
+    "credit_limit": 44000,
+    "customer_id": "CC46077"
+  },
+  {
+    "number": "1290-5480-3763-3387",
+    "family": "Gold",
+    "credit_limit": 8000,
+    "customer_id": "CC68752"
+  },
+  {
+    "number": "8499-3007-6025-2772",
+    "family": "Premium",
+    "credit_limit": 501000,
+    "customer_id": "CC32108"
+  },
+  {
+    "number": "9207-1270-6690-4905",
+    "family": "Gold",
+    "credit_limit": 2000,
+    "customer_id": "CC65624"
+  },
+  {
+    "number": "6012-7799-2842-7221",
+    "family": "Premium",
+    "credit_limit": 721000,
+    "customer_id": "CC61926"
+  },
+  {
+    "number": "3405-7202-8402-5988",
+    "family": "Premium",
+    "credit_limit": 181000,
+    "customer_id": "CC34868"
+  },
+  {
+    "number": "3313-4024-5109-8235",
+    "family": "Gold",
+    "credit_limit": 39000,
+    "customer_id": "CC78536"
+  },
+  {
+    "number": "9248-9032-8076-1225",
+    "family": "Gold",
+    "credit_limit": 25000,
+    "customer_id": "CC83282"
+  },
+  {
+    "number": "2422-2354-4628-4556",
+    "family": "Gold",
+    "credit_limit": 49000,
+    "customer_id": "CC35621"
+  },
+  {
+    "number": "8228-6661-8736-2838",
+    "family": "Premium",
+    "credit_limit": 802000,
+    "customer_id": "CC24049"
+  },
+  {
+    "number": "3623-4506-7311-5151",
+    "family": "Gold",
+    "credit_limit": 48000,
+    "customer_id": "CC21283"
+  },
+  {
+    "number": "1127-9633-2269-3119",
+    "family": "Gold",
+    "credit_limit": 46000,
+    "customer_id": "CC97420"
+  },
+  {
+    "number": "8522-7783-9262-6673",
+    "family": "Gold",
+    "credit_limit": 17000,
+    "customer_id": "CC29886"
+  },
+  {
+    "number": "6197-7150-9163-8287",
+    "family": "Gold",
+    "credit_limit": 24000,
+    "customer_id": "CC69968"
+  },
+  {
+    "number": "2830-1922-3225-5423",
+    "family": "Premium",
+    "credit_limit": 554000,
+    "customer_id": "CC41498"
+  },
+  {
+    "number": "9425-1481-6545-6190",
+    "family": "Premium",
+    "credit_limit": 145000,
+    "customer_id": "CC84333"
+  },
+  {
+    "number": "7795-9930-1867-6279",
+    "family": "Platinum",
+    "credit_limit": 181000,
+    "customer_id": "CC96446"
+  },
+  {
+    "number": "9304-8255-4381-2028",
+    "family": "Gold",
+    "credit_limit": 21000,
+    "customer_id": "CC39362"
+  },
+  {
+    "number": "3158-1638-7701-9309",
+    "family": "Premium",
+    "credit_limit": 221000,
+    "customer_id": "CC25645"
+  },
+  {
+    "number": "3525-9763-6876-7431",
+    "family": "Platinum",
+    "credit_limit": 164000,
+    "customer_id": "CC65775"
+  },
+  {
+    "number": "6770-4547-6958-5035",
+    "family": "Platinum",
+    "credit_limit": 161000,
+    "customer_id": "CC35596"
+  },
+  {
+    "number": "1629-9566-3285-2123",
+    "family": "Platinum",
+    "credit_limit": 194000,
+    "customer_id": "CC24544"
+  },
+  {
+    "number": "6893-1438-6516-3207",
+    "family": "Premium",
+    "credit_limit": 315000,
+    "customer_id": "CC13421"
+  },
+  {
+    "number": "3440-3330-5015-4988",
+    "family": "Premium",
+    "credit_limit": 549000,
+    "customer_id": "CC28038"
+  },
+  {
+    "number": "6262-7793-5307-8561",
+    "family": "Premium",
+    "credit_limit": 542000,
+    "customer_id": "CC90510"
+  },
+  {
+    "number": "8135-1903-7706-2260",
+    "family": "Premium",
+    "credit_limit": 307000,
+    "customer_id": "CC52705"
+  },
+  {
+    "number": "6171-3568-7740-8072",
+    "family": "Premium",
+    "credit_limit": 325000,
+    "customer_id": "CC35449"
+  },
+  {
+    "number": "8321-8463-7644-8934",
+    "family": "Premium",
+    "credit_limit": 790000,
+    "customer_id": "CC78536"
+  },
+  {
+    "number": "5144-5591-4640-2208",
+    "family": "Premium",
+    "credit_limit": 657000,
+    "customer_id": "CC17602"
+  },
+  {
+    "number": "8582-2422-3251-5767",
+    "family": "Premium",
+    "credit_limit": 567000,
+    "customer_id": "CC59721"
+  },
+  {
+    "number": "9322-7578-8781-2684",
+    "family": "Platinum",
+    "credit_limit": 183000,
+    "customer_id": "CC70711"
+  },
+  {
+    "number": "9314-8332-5195-8287",
+    "family": "Gold",
+    "credit_limit": 15000,
+    "customer_id": "CC93412"
+  },
+  {
+    "number": "5574-7647-1844-5316",
+    "family": "Premium",
+    "credit_limit": 647000,
+    "customer_id": "CC92850"
+  },
+  {
+    "number": "4971-8219-1133-6753",
+    "family": "Gold",
+    "credit_limit": 4000,
+    "customer_id": "CC23687"
+  },
+  {
+    "number": "5811-4353-3490-5513",
+    "family": "Gold",
+    "credit_limit": 12000,
+    "customer_id": "CC66648"
+  },
+  {
+    "number": "2357-9896-6403-5970",
+    "family": "Gold",
+    "credit_limit": 41000,
+    "customer_id": "CC26081"
+  },
+  {
+    "number": "8578-3662-1951-5720",
+    "family": "Premium",
+    "credit_limit": 136000,
+    "customer_id": "CC17651"
+  },
+  {
+    "number": "5592-8244-5701-5100",
+    "family": "Gold",
+    "credit_limit": 44000,
+    "customer_id": "CC78221"
+  },
+  {
+    "number": "9391-7086-9113-4893",
+    "family": "Platinum",
+    "credit_limit": 181000,
+    "customer_id": "CC99704"
+  },
+  {
+    "number": "9132-7052-6630-5540",
+    "family": "Gold",
+    "credit_limit": 30000,
+    "customer_id": "CC70110"
+  },
+  {
+    "number": "4856-2191-9879-6388",
+    "family": "Gold",
+    "credit_limit": 11000,
+    "customer_id": "CC38711"
+  },
+  {
+    "number": "7382-8932-9683-9480",
+    "family": "Premium",
+    "credit_limit": 635000,
+    "customer_id": "CC57759"
+  },
+  {
+    "number": "8870-2780-7399-5151",
+    "family": "Platinum",
+    "credit_limit": 51000,
+    "customer_id": "CC46922"
+  },
+  {
+    "number": "3007-2083-4197-9770",
+    "family": "Platinum",
+    "credit_limit": 130000,
+    "customer_id": "CC87002"
+  },
+  {
+    "number": "4703-4800-3443-6825",
+    "family": "Premium",
+    "credit_limit": 121000,
+    "customer_id": "CC11486"
+  },
+  {
+    "number": "2161-8530-5218-6803",
+    "family": "Gold",
+    "credit_limit": 28000,
+    "customer_id": "CC29479"
+  },
+  {
+    "number": "9946-6939-3033-9593",
+    "family": "Platinum",
+    "credit_limit": 85000,
+    "customer_id": "CC45937"
+  },
+  {
+    "number": "5018-8635-8433-6614",
+    "family": "Premium",
+    "credit_limit": 191000,
+    "customer_id": "CC20490"
+  },
+  {
+    "number": "6765-2732-8888-1318",
+    "family": "Gold",
+    "credit_limit": 17000,
+    "customer_id": "CC48782"
+  },
+  {
+    "number": "8462-5562-6993-2745",
+    "family": "Gold",
+    "credit_limit": 27000,
+    "customer_id": "CC30640"
+  },
+  {
+    "number": "4954-2506-4917-1734",
+    "family": "Platinum",
+    "credit_limit": 176000,
+    "customer_id": "CC20141"
+  },
+  {
+    "number": "1765-4019-5141-9230",
+    "family": "Platinum",
+    "credit_limit": 169000,
+    "customer_id": "CC95833"
+  },
+  {
+    "number": "6045-2636-8278-8875",
+    "family": "Platinum",
+    "credit_limit": 88000,
+    "customer_id": "CC42497"
+  },
+  {
+    "number": "7658-7645-4568-1461",
+    "family": "Gold",
+    "credit_limit": 16000,
+    "customer_id": "CC17463"
+  },
+  {
+    "number": "5380-2273-3524-9795",
+    "family": "Premium",
+    "credit_limit": 484000,
+    "customer_id": "CC62968"
+  },
+  {
+    "number": "2017-7197-7814-9950",
+    "family": "Platinum",
+    "credit_limit": 163000,
+    "customer_id": "CC93684"
+  },
+  {
+    "number": "6085-9783-3284-2783",
+    "family": "Premium",
+    "credit_limit": 332000,
+    "customer_id": "CC33694"
+  },
+  {
+    "number": "1556-5778-6667-4345",
+    "family": "Gold",
+    "credit_limit": 45000,
+    "customer_id": "CC92905"
+  },
+  {
+    "number": "4491-2026-2441-2049",
+    "family": "Premium",
+    "credit_limit": 604000,
+    "customer_id": "CC50476"
+  },
+  {
+    "number": "7633-7985-2079-2990",
+    "family": "Platinum",
+    "credit_limit": 196000,
+    "customer_id": "CC42937"
+  },
+  {
+    "number": "5283-6135-5709-4452",
+    "family": "Premium",
+    "credit_limit": 773000,
+    "customer_id": "CC75172"
+  },
+  {
+    "number": "3359-9828-1991-2013",
+    "family": "Premium",
+    "credit_limit": 435000,
+    "customer_id": "CC95660"
+  },
+  {
+    "number": "6292-8171-2649-5336",
+    "family": "Platinum",
+    "credit_limit": 191000,
+    "customer_id": "CC52309"
+  },
+  {
+    "number": "5556-4557-4566-1540",
+    "family": "Gold",
+    "credit_limit": 45000,
+    "customer_id": "CC46484"
+  },
+  {
+    "number": "8614-1547-9524-8444",
+    "family": "Platinum",
+    "credit_limit": 119000,
+    "customer_id": "CC95958"
+  },
+  {
+    "number": "4679-5406-6408-1233",
+    "family": "Gold",
+    "credit_limit": 50000,
+    "customer_id": "CC65031"
+  },
+  {
+    "number": "6271-9924-3653-8913",
+    "family": "Gold",
+    "credit_limit": 3000,
+    "customer_id": "CC62567"
+  },
+  {
+    "number": "2495-1344-4998-6045",
+    "family": "Platinum",
+    "credit_limit": 113000,
+    "customer_id": "CC78778"
+  },
+  {
+    "number": "7299-3529-7767-1695",
+    "family": "Gold",
+    "credit_limit": 46000,
+    "customer_id": "CC24173"
+  },
+  {
+    "number": "3439-5404-2739-7517",
+    "family": "Gold",
+    "credit_limit": 21000,
+    "customer_id": "CC17528"
+  },
+  {
+    "number": "1782-8675-4061-3666",
+    "family": "Gold",
+    "credit_limit": 45000,
+    "customer_id": "CC71198"
+  },
+  {
+    "number": "5349-1963-8417-8327",
+    "family": "Premium",
+    "credit_limit": 336000,
+    "customer_id": "CC85592"
+  },
+  {
+    "number": "4679-8417-8700-1213",
+    "family": "Premium",
+    "credit_limit": 298000,
+    "customer_id": "CC80464"
+  },
+  {
+    "number": "7697-2274-6431-6408",
+    "family": "Premium",
+    "credit_limit": 267000,
+    "customer_id": "CC34035"
+  },
+  {
+    "number": "9999-3058-2698-4238",
+    "family": "Premium",
+    "credit_limit": 129000,
+    "customer_id": "CC48724"
+  },
+  {
+    "number": "4959-5036-1379-1303",
+    "family": "Platinum",
+    "credit_limit": 135000,
+    "customer_id": "CC19785"
+  },
+  {
+    "number": "1449-4529-1480-3546",
+    "family": "Premium",
+    "credit_limit": 621000,
+    "customer_id": "CC95143"
+  },
+  {
+    "number": "1661-3809-5334-2155",
+    "family": "Gold",
+    "credit_limit": 39000,
+    "customer_id": "CC61332"
+  },
+  {
+    "number": "7141-7294-3956-4408",
+    "family": "Gold",
+    "credit_limit": 12000,
+    "customer_id": "CC85900"
+  },
+  {
+    "number": "6540-2862-2962-5109",
+    "family": "Premium",
+    "credit_limit": 126000,
+    "customer_id": "CC78862"
+  },
+  {
+    "number": "3146-4961-6964-4229",
+    "family": "Premium",
+    "credit_limit": 719000,
+    "customer_id": "CC43059"
+  },
+  {
+    "number": "4448-9587-7180-9589",
+    "family": "Premium",
+    "credit_limit": 379000,
+    "customer_id": "CC31210"
+  },
+  {
+    "number": "2724-3903-7331-7820",
+    "family": "Platinum",
+    "credit_limit": 128000,
+    "customer_id": "CC94754"
+  },
+  {
+    "number": "2649-6876-7496-4123",
+    "family": "Premium",
+    "credit_limit": 197000,
+    "customer_id": "CC13320"
+  },
+  {
+    "number": "6815-5139-5546-1802",
+    "family": "Premium",
+    "credit_limit": 742000,
+    "customer_id": "CC37292"
+  },
+  {
+    "number": "5590-1294-8800-2874",
+    "family": "Premium",
+    "credit_limit": 516000,
+    "customer_id": "CC28205"
+  },
+  {
+    "number": "7430-6895-6227-4665",
+    "family": "Gold",
+    "credit_limit": 18000,
+    "customer_id": "CC11154"
+  },
+  {
+    "number": "8177-5533-1183-4063",
+    "family": "Gold",
+    "credit_limit": 31000,
+    "customer_id": "CC36475"
+  },
+  {
+    "number": "8918-6235-3308-7862",
+    "family": "Premium",
+    "credit_limit": 269000,
+    "customer_id": "CC93261"
+  },
+  {
+    "number": "5341-5445-8369-7039",
+    "family": "Premium",
+    "credit_limit": 768000,
+    "customer_id": "CC43699"
+  },
+  {
+    "number": "4246-1369-3659-8804",
+    "family": "Platinum",
+    "credit_limit": 105000,
+    "customer_id": "CC21111"
+  },
+  {
+    "number": "5616-5526-4836-1962",
+    "family": "Gold",
+    "credit_limit": 42000,
+    "customer_id": "CC38556"
+  },
+  {
+    "number": "6617-5782-1394-1632",
+    "family": "Gold",
+    "credit_limit": 5000,
+    "customer_id": "CC74385"
+  },
+  {
+    "number": "2893-7786-7528-2338",
+    "family": "Gold",
+    "credit_limit": 46000,
+    "customer_id": "CC95121"
+  },
+  {
+    "number": "8528-6154-7390-5081",
+    "family": "Premium",
+    "credit_limit": 686000,
+    "customer_id": "CC90833"
+  },
+  {
+    "number": "7811-4511-7664-6960",
+    "family": "Gold",
+    "credit_limit": 26000,
+    "customer_id": "CC73883"
+  },
+  {
+    "number": "8305-2272-4553-4911",
+    "family": "Premium",
+    "credit_limit": 777000,
+    "customer_id": "CC82682"
+  },
+  {
+    "number": "2854-6117-5924-2770",
+    "family": "Platinum",
+    "credit_limit": 108000,
+    "customer_id": "CC70113"
+  },
+  {
+    "number": "9369-6196-2597-1730",
+    "family": "Gold",
+    "credit_limit": 15000,
+    "customer_id": "CC61652"
+  },
+  {
+    "number": "5274-7205-2377-3357",
+    "family": "Premium",
+    "credit_limit": 287000,
+    "customer_id": "CC51714"
+  },
+  {
+    "number": "2911-7555-3093-9231",
+    "family": "Gold",
+    "credit_limit": 27000,
+    "customer_id": "CC74712"
+  },
+  {
+    "number": "8869-7604-9618-3740",
+    "family": "Gold",
+    "credit_limit": 10000,
+    "customer_id": "CC60553"
+  },
+  {
+    "number": "5533-2042-7236-9790",
+    "family": "Platinum",
+    "credit_limit": 148000,
+    "customer_id": "CC71781"
+  },
+  {
+    "number": "4420-9925-9792-9113",
+    "family": "Platinum",
+    "credit_limit": 80000,
+    "customer_id": "CC99132"
+  },
+  {
+    "number": "5936-1967-4966-6077",
+    "family": "Gold",
+    "credit_limit": 9000,
+    "customer_id": "CC52681"
+  },
+  {
+    "number": "6750-4821-2334-9977",
+    "family": "Gold",
+    "credit_limit": 30000,
+    "customer_id": "CC18336"
+  },
+  {
+    "number": "3925-8607-7303-7699",
+    "family": "Gold",
+    "credit_limit": 4000,
+    "customer_id": "CC85979"
+  },
+  {
+    "number": "1909-6288-2284-5317",
+    "family": "Gold",
+    "credit_limit": 16000,
+    "customer_id": "CC96619"
+  },
+  {
+    "number": "6148-9835-7115-4405",
+    "family": "Platinum",
+    "credit_limit": 180000,
+    "customer_id": "CC66202"
+  },
+  {
+    "number": "2964-4590-9510-4405",
+    "family": "Premium",
+    "credit_limit": 218000,
+    "customer_id": "CC57249"
+  },
+  {
+    "number": "5530-1215-6434-9691",
+    "family": "Gold",
+    "credit_limit": 34000,
+    "customer_id": "CC92155"
+  },
+  {
+    "number": "1585-2708-4693-1454",
+    "family": "Premium",
+    "credit_limit": 131000,
+    "customer_id": "CC26492"
+  },
+  {
+    "number": "3430-7717-8611-4878",
+    "family": "Premium",
+    "credit_limit": 260000,
+    "customer_id": "CC37404"
+  },
+  {
+    "number": "7863-1291-5335-8126",
+    "family": "Gold",
+    "credit_limit": 49000,
+    "customer_id": "CC52496"
+  },
+  {
+    "number": "6699-2639-4522-6219",
+    "family": "Gold",
+    "credit_limit": 34000,
+    "customer_id": "CC85028"
+  },
+  {
+    "number": "4587-3535-8224-4301",
+    "family": "Premium",
+    "credit_limit": 858000,
+    "customer_id": "CC17727"
+  },
+  {
+    "number": "6343-7134-9888-2361",
+    "family": "Premium",
+    "credit_limit": 405000,
+    "customer_id": "CC31257"
+  },
+  {
+    "number": "4963-4850-8565-5494",
+    "family": "Premium",
+    "credit_limit": 209000,
+    "customer_id": "CC30013"
+  },
+  {
+    "number": "5316-4617-7300-3260",
+    "family": "Gold",
+    "credit_limit": 49000,
+    "customer_id": "CC17040"
+  },
+  {
+    "number": "8486-4186-7122-3452",
+    "family": "Gold",
+    "credit_limit": 20000,
+    "customer_id": "CC36205"
+  },
+  {
+    "number": "6016-6956-6981-3103",
+    "family": "Platinum",
+    "credit_limit": 148000,
+    "customer_id": "CC99306"
+  },
+  {
+    "number": "8518-4517-6409-6976",
+    "family": "Platinum",
+    "credit_limit": 138000,
+    "customer_id": "CC19730"
+  },
+  {
+    "number": "3545-8540-7402-9523",
+    "family": "Gold",
+    "credit_limit": 45000,
+    "customer_id": "CC24722"
+  },
+  {
+    "number": "6515-8771-7352-9788",
+    "family": "Gold",
+    "credit_limit": 41000,
+    "customer_id": "CC15079"
+  },
+  {
+    "number": "3140-6494-9869-5893",
+    "family": "Premium",
+    "credit_limit": 567000,
+    "customer_id": "CC17003"
+  },
+  {
+    "number": "2711-5438-4449-9824",
+    "family": "Premium",
+    "credit_limit": 625000,
+    "customer_id": "CC39863"
+  },
+  {
+    "number": "9930-4634-8565-6716",
+    "family": "Premium",
+    "credit_limit": 492000,
+    "customer_id": "CC41731"
+  },
+  {
+    "number": "3440-1978-8156-5313",
+    "family": "Premium",
+    "credit_limit": 749000,
+    "customer_id": "CC78973"
+  },
+  {
+    "number": "7837-4036-5999-1672",
+    "family": "Gold",
+    "credit_limit": 24000,
+    "customer_id": "CC21312"
+  },
+  {
+    "number": "1825-7669-6621-9045",
+    "family": "Premium",
+    "credit_limit": 126000,
+    "customer_id": "CC26307"
+  },
+  {
+    "number": "3969-9181-6385-4422",
+    "family": "Gold",
+    "credit_limit": 2000,
+    "customer_id": "CC71597"
+  },
+  {
+    "number": "3698-9867-4865-5497",
+    "family": "Platinum",
+    "credit_limit": 104000,
+    "customer_id": "CC26192"
+  },
+  {
+    "number": "2116-6906-9722-9824",
+    "family": "Premium",
+    "credit_limit": 143000,
+    "customer_id": "CC33423"
+  },
+  {
+    "number": "4562-2665-7578-1931",
+    "family": "Premium",
+    "credit_limit": 781000,
+    "customer_id": "CC19186"
+  },
+  {
+    "number": "5481-9525-6488-7566",
+    "family": "Premium",
+    "credit_limit": 406000,
+    "customer_id": "CC56172"
+  },
+  {
+    "number": "8262-8743-6406-7105",
+    "family": "Premium",
+    "credit_limit": 331000,
+    "customer_id": "CC30400"
+  },
+  {
+    "number": "6785-6309-6247-3002",
+    "family": "Platinum",
+    "credit_limit": 160000,
+    "customer_id": "CC50312"
+  },
+  {
+    "number": "8249-2687-5339-2078",
+    "family": "Platinum",
+    "credit_limit": 56000,
+    "customer_id": "CC27190"
+  },
+  {
+    "number": "3295-6390-4452-7199",
+    "family": "Gold",
+    "credit_limit": 6000,
+    "customer_id": "CC76008"
+  },
+  {
+    "number": "9386-8854-6115-4075",
+    "family": "Gold",
+    "credit_limit": 20000,
+    "customer_id": "CC35402"
+  },
+  {
+    "number": "2264-2870-6785-2725",
+    "family": "Premium",
+    "credit_limit": 899000,
+    "customer_id": "CC34812"
+  },
+  {
+    "number": "2834-5946-1542-4074",
+    "family": "Gold",
+    "credit_limit": 50000,
+    "customer_id": "CC85673"
+  },
+  {
+    "number": "7334-1842-5941-2149",
+    "family": "Premium",
+    "credit_limit": 886000,
+    "customer_id": "CC92316"
+  },
+  {
+    "number": "4093-1634-8086-4601",
+    "family": "Platinum",
+    "credit_limit": 188000,
+    "customer_id": "CC72196"
+  },
+  {
+    "number": "3461-8685-2115-2963",
+    "family": "Platinum",
+    "credit_limit": 144000,
+    "customer_id": "CC29656"
+  },
+  {
+    "number": "2992-8127-2278-9771",
+    "family": "Gold",
+    "credit_limit": 36000,
+    "customer_id": "CC34207"
+  },
+  {
+    "number": "7276-7349-6334-3809",
+    "family": "Premium",
+    "credit_limit": 430000,
+    "customer_id": "CC46637"
+  },
+  {
+    "number": "6001-5945-4665-4926",
+    "family": "Gold",
+    "credit_limit": 30000,
+    "customer_id": "CC36387"
+  },
+  {
+    "number": "5778-9566-9086-7555",
+    "family": "Gold",
+    "credit_limit": 23000,
+    "customer_id": "CC34752"
+  },
+  {
+    "number": "2219-4852-5937-6242",
+    "family": "Premium",
+    "credit_limit": 337000,
+    "customer_id": "CC56840"
+  },
+  {
+    "number": "4144-3271-6301-9342",
+    "family": "Premium",
+    "credit_limit": 509000,
+    "customer_id": "CC19740"
+  },
+  {
+    "number": "3170-4662-9297-6384",
+    "family": "Premium",
+    "credit_limit": 669000,
+    "customer_id": "CC67668"
+  },
+  {
+    "number": "9721-7299-5635-3504",
+    "family": "Gold",
+    "credit_limit": 37000,
+    "customer_id": "CC68259"
+  },
+  {
+    "number": "5251-7364-6702-5590",
+    "family": "Premium",
+    "credit_limit": 266000,
+    "customer_id": "CC87270"
+  },
+  {
+    "number": "3573-2839-9869-7747",
+    "family": "Platinum",
+    "credit_limit": 167000,
+    "customer_id": "CC42497"
+  },
+  {
+    "number": "7725-3576-5626-3317",
+    "family": "Gold",
+    "credit_limit": 19000,
+    "customer_id": "CC40274"
+  },
+  {
+    "number": "8259-5688-7450-9931",
+    "family": "Premium",
+    "credit_limit": 682000,
+    "customer_id": "CC87694"
+  },
+  {
+    "number": "3167-9604-1650-2605",
+    "family": "Platinum",
+    "credit_limit": 126000,
+    "customer_id": "CC53812"
+  },
+  {
+    "number": "5674-3252-5805-3288",
+    "family": "Premium",
+    "credit_limit": 898000,
+    "customer_id": "CC78942"
+  },
+  {
+    "number": "9517-7826-1862-6726",
+    "family": "Gold",
+    "credit_limit": 31000,
+    "customer_id": "CC78843"
+  },
+  {
+    "number": "3323-8332-7133-7008",
+    "family": "Gold",
+    "credit_limit": 43000,
+    "customer_id": "CC90178"
+  },
+  {
+    "number": "8836-7078-5752-6312",
+    "family": "Premium",
+    "credit_limit": 118000,
+    "customer_id": "CC40274"
+  },
+  {
+    "number": "2463-9055-1240-3878",
+    "family": "Premium",
+    "credit_limit": 183000,
+    "customer_id": "CC27404"
+  },
+  {
+    "number": "4427-5380-8182-9668",
+    "family": "Gold",
+    "credit_limit": 29000,
+    "customer_id": "CC70138"
+  },
+  {
+    "number": "1546-9786-8388-4937",
+    "family": "Premium",
+    "credit_limit": 745000,
+    "customer_id": "CC49168"
+  },
+  {
+    "number": "1817-8543-9660-4802",
+    "family": "Premium",
+    "credit_limit": 390000,
+    "customer_id": "CC31597"
+  },
+  {
+    "number": "4334-6855-2003-9239",
+    "family": "Gold",
+    "credit_limit": 34000,
+    "customer_id": "CC87102"
+  },
+  {
+    "number": "1947-8602-1695-7503",
+    "family": "Gold",
+    "credit_limit": 10000,
+    "customer_id": "CC26034"
+  },
+  {
+    "number": "6319-3749-2944-6015",
+    "family": "Premium",
+    "credit_limit": 305000,
+    "customer_id": "CC60322"
+  },
+  {
+    "number": "2370-4593-4826-2349",
+    "family": "Gold",
+    "credit_limit": 25000,
+    "customer_id": "CC45414"
+  },
+  {
+    "number": "3467-3224-2464-5799",
+    "family": "Premium",
+    "credit_limit": 708000,
+    "customer_id": "CC68517"
+  },
+  {
+    "number": "3697-6001-4909-5350",
+    "family": "Gold",
+    "credit_limit": 15000,
+    "customer_id": "CC62261"
+  },
+  {
+    "number": "4937-6752-6970-3163",
+    "family": "Platinum",
+    "credit_limit": 79000,
+    "customer_id": "CC76150"
+  },
+  {
+    "number": "3134-9713-5764-8285",
+    "family": "Premium",
+    "credit_limit": 405000,
+    "customer_id": "CC49547"
+  },
+  {
+    "number": "7504-5906-9389-8905",
+    "family": "Premium",
+    "credit_limit": 617000,
+    "customer_id": "CC31083"
+  },
+  {
+    "number": "3748-8048-5227-8162",
+    "family": "Gold",
+    "credit_limit": 32000,
+    "customer_id": "CC67039"
+  },
+  {
+    "number": "3648-6856-2869-1255",
+    "family": "Gold",
+    "credit_limit": 33000,
+    "customer_id": "CC74126"
+  },
+  {
+    "number": "6835-6133-8935-6988",
+    "family": "Gold",
+    "credit_limit": 35000,
+    "customer_id": "CC91183"
+  },
+  {
+    "number": "2524-4184-5908-6750",
+    "family": "Platinum",
+    "credit_limit": 150000,
+    "customer_id": "CC69171"
+  },
+  {
+    "number": "6258-3903-6637-5620",
+    "family": "Gold",
+    "credit_limit": 17000,
+    "customer_id": "CC75243"
+  },
+  {
+    "number": "1536-9786-1960-7400",
+    "family": "Premium",
+    "credit_limit": 207000,
+    "customer_id": "CC70382"
+  },
+  {
+    "number": "7966-2894-6066-2530",
+    "family": "Premium",
+    "credit_limit": 889000,
+    "customer_id": "CC51058"
+  },
+  {
+    "number": "7306-7457-8875-3211",
+    "family": "Platinum",
+    "credit_limit": 150000,
+    "customer_id": "CC26131"
+  },
+  {
+    "number": "9635-4234-8168-7095",
+    "family": "Premium",
+    "credit_limit": 257000,
+    "customer_id": "CC68779"
+  },
+  {
+    "number": "6025-2610-4001-6680",
+    "family": "Platinum",
+    "credit_limit": 110000,
+    "customer_id": "CC18139"
+  },
+  {
+    "number": "4646-8260-8197-7078",
+    "family": "Gold",
+    "credit_limit": 47000,
+    "customer_id": "CC68821"
+  },
+  {
+    "number": "9873-6894-5872-1884",
+    "family": "Premium",
+    "credit_limit": 383000,
+    "customer_id": "CC32108"
+  },
+  {
+    "number": "4770-7274-9917-1594",
+    "family": "Premium",
+    "credit_limit": 475000,
+    "customer_id": "CC15895"
+  },
+  {
+    "number": "4294-8894-4829-7801",
+    "family": "Platinum",
+    "credit_limit": 102000,
+    "customer_id": "CC65968"
+  },
+  {
+    "number": "1947-8327-3848-6581",
+    "family": "Platinum",
+    "credit_limit": 113000,
+    "customer_id": "CC11690"
+  },
+  {
+    "number": "9018-5320-5729-5393",
+    "family": "Premium",
+    "credit_limit": 444000,
+    "customer_id": "CC54582"
+  },
+  {
+    "number": "5580-3409-5276-9882",
+    "family": "Premium",
+    "credit_limit": 828000,
+    "customer_id": "CC86871"
+  },
+  {
+    "number": "2949-1972-1300-6680",
+    "family": "Gold",
+    "credit_limit": 45000,
+    "customer_id": "CC68567"
+  },
+  {
+    "number": "4991-3814-8016-9048",
+    "family": "Gold",
+    "credit_limit": 22000,
+    "customer_id": "CC60931"
+  },
+  {
+    "number": "1716-8420-2111-4735",
+    "family": "Platinum",
+    "credit_limit": 75000,
+    "customer_id": "CC42942"
+  },
+  {
+    "number": "2201-1387-2319-6874",
+    "family": "Platinum",
+    "credit_limit": 76000,
+    "customer_id": "CC88026"
+  },
+  {
+    "number": "7726-3678-8092-6414",
+    "family": "Premium",
+    "credit_limit": 605000,
+    "customer_id": "CC64007"
+  },
+  {
+    "number": "1187-8674-2708-3972",
+    "family": "Platinum",
+    "credit_limit": 53000,
+    "customer_id": "CC82145"
+  },
+  {
+    "number": "7815-5255-1963-9464",
+    "family": "Gold",
+    "credit_limit": 5000,
+    "customer_id": "CC91171"
+  },
+  {
+    "number": "3196-5064-6247-7113",
+    "family": "Premium",
+    "credit_limit": 463000,
+    "customer_id": "CC51619"
+  },
+  {
+    "number": "7234-6377-8525-5139",
+    "family": "Platinum",
+    "credit_limit": 141000,
+    "customer_id": "CC63449"
+  },
+  {
+    "number": "5384-8278-5616-5502",
+    "family": "Premium",
+    "credit_limit": 361000,
+    "customer_id": "CC83124"
+  },
+  {
+    "number": "5010-4875-7956-3628",
+    "family": "Premium",
+    "credit_limit": 241000,
+    "customer_id": "CC65080"
+  },
+  {
+    "number": "9360-2827-9359-7064",
+    "family": "Platinum",
+    "credit_limit": 69000,
+    "customer_id": "CC66974"
+  },
+  {
+    "number": "2056-7091-8023-1914",
+    "family": "Premium",
+    "credit_limit": 773000,
+    "customer_id": "CC59183"
+  },
+  {
+    "number": "7662-3108-4951-8587",
+    "family": "Platinum",
+    "credit_limit": 177000,
+    "customer_id": "CC26032"
+  },
+  {
+    "number": "3362-7342-4639-8164",
+    "family": "Premium",
+    "credit_limit": 170000,
+    "customer_id": "CC65840"
+  },
+  {
+    "number": "8002-6041-9878-5658",
+    "family": "Platinum",
+    "credit_limit": 150000,
+    "customer_id": "CC51984"
+  },
+  {
+    "number": "3114-9778-2542-3154",
+    "family": "Gold",
+    "credit_limit": 18000,
+    "customer_id": "CC50434"
+  },
+  {
+    "number": "9779-2601-5260-2896",
+    "family": "Gold",
+    "credit_limit": 28000,
+    "customer_id": "CC99952"
+  },
+  {
+    "number": "5002-6349-2806-2942",
+    "family": "Premium",
+    "credit_limit": 400000,
+    "customer_id": "CC26267"
+  },
+  {
+    "number": "9542-6082-9630-9970",
+    "family": "Platinum",
+    "credit_limit": 159000,
+    "customer_id": "CC66351"
+  },
+  {
+    "number": "7558-5459-8235-5737",
+    "family": "Premium",
+    "credit_limit": 740000,
+    "customer_id": "CC93123"
+  },
+  {
+    "number": "2595-7800-1142-5225",
+    "family": "Premium",
+    "credit_limit": 829000,
+    "customer_id": "CC97721"
+  },
+  {
+    "number": "8078-7413-3861-2246",
+    "family": "Premium",
+    "credit_limit": 329000,
+    "customer_id": "CC81464"
+  },
+  {
+    "number": "9753-7718-2196-1448",
+    "family": "Platinum",
+    "credit_limit": 142000,
+    "customer_id": "CC97559"
+  },
+  {
+    "number": "5175-8965-9249-9021",
+    "family": "Premium",
+    "credit_limit": 669000,
+    "customer_id": "CC86374"
+  },
+  {
+    "number": "9842-5558-3255-3410",
+    "family": "Premium",
+    "credit_limit": 462000,
+    "customer_id": "CC40052"
+  },
+  {
+    "number": "3922-3698-6304-1975",
+    "family": "Premium",
+    "credit_limit": 786000,
+    "customer_id": "CC43352"
+  },
+  {
+    "number": "6620-4005-4574-6263",
+    "family": "Gold",
+    "credit_limit": 27000,
+    "customer_id": "CC95042"
+  },
+  {
+    "number": "5786-2204-6101-1373",
+    "family": "Platinum",
+    "credit_limit": 112000,
+    "customer_id": "CC17112"
+  },
+  {
+    "number": "8031-9022-9952-9605",
+    "family": "Gold",
+    "credit_limit": 15000,
+    "customer_id": "CC66002"
+  },
+  {
+    "number": "3914-1379-8974-9157",
+    "family": "Platinum",
+    "credit_limit": 160000,
+    "customer_id": "CC59638"
+  },
+  {
+    "number": "7290-4771-9163-1291",
+    "family": "Gold",
+    "credit_limit": 28000,
+    "customer_id": "CC77721"
+  },
+  {
+    "number": "4708-4407-9601-6022",
+    "family": "Premium",
+    "credit_limit": 691000,
+    "customer_id": "CC64993"
+  },
+  {
+    "number": "6042-2856-7280-2925",
+    "family": "Gold",
+    "credit_limit": 33000,
+    "customer_id": "CC26787"
+  },
+  {
+    "number": "8706-3809-5167-3899",
+    "family": "Premium",
+    "credit_limit": 144000,
+    "customer_id": "CC32532"
+  },
+  {
+    "number": "9540-8558-5897-5046",
+    "family": "Premium",
+    "credit_limit": 830000,
+    "customer_id": "CC90246"
+  },
+  {
+    "number": "5587-7265-8118-7718",
+    "family": "Gold",
+    "credit_limit": 24000,
+    "customer_id": "CC37803"
+  }
+]

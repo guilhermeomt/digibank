@@ -1,0 +1,602 @@
+[
+  {
+    "customer_id": "CC74945",
+    "number": "92713315",
+    "balance": 27088.39,
+    "pin": 551420
+  },
+  {
+    "customer_id": "CC51721",
+    "number": "12086436",
+    "balance": 87126.4,
+    "pin": 402038
+  },
+  {
+    "customer_id": "CC54581",
+    "number": "73601006",
+    "balance": 65763.94,
+    "pin": 968516
+  },
+  {
+    "customer_id": "CC74095",
+    "number": "31751267",
+    "balance": 46321.86,
+    "pin": 789144
+  },
+  {
+    "customer_id": "CC37966",
+    "number": "00530758",
+    "balance": 8356.26,
+    "pin": 342919
+  },
+  {
+    "customer_id": "CC92301",
+    "number": "87621900",
+    "balance": 77793.22,
+    "pin": 772660
+  },
+  {
+    "customer_id": "CC86170",
+    "number": "25955387",
+    "balance": 52026.02,
+    "pin": 162616
+  },
+  {
+    "customer_id": "CC73368",
+    "number": "09894283",
+    "balance": 9919.45,
+    "pin": 768175
+  },
+  {
+    "customer_id": "CC59862",
+    "number": "21571195",
+    "balance": 25738.25,
+    "pin": 240206
+  },
+  {
+    "customer_id": "CC37368",
+    "number": "69129564",
+    "balance": 61430.93,
+    "pin": 892311
+  },
+  {
+    "customer_id": "CC24235",
+    "number": "31453545",
+    "balance": 29632.58,
+    "pin": 309110
+  },
+  {
+    "customer_id": "CC17773",
+    "number": "13216953",
+    "balance": 21225.14,
+    "pin": 661024
+  },
+  {
+    "customer_id": "CC44821",
+    "number": "12290557",
+    "balance": 12369.5,
+    "pin": 263199
+  },
+  {
+    "customer_id": "CC62220",
+    "number": "27387106",
+    "balance": 59146.86,
+    "pin": 839784
+  },
+  {
+    "customer_id": "CC27900",
+    "number": "55507159",
+    "balance": 43084.61,
+    "pin": 936762
+  },
+  {
+    "customer_id": "CC45332",
+    "number": "36067343",
+    "balance": 83184.5,
+    "pin": 911810
+  },
+  {
+    "customer_id": "CC63094",
+    "number": "71858568",
+    "balance": 57949.69,
+    "pin": 955310
+  },
+  {
+    "customer_id": "CC42495",
+    "number": "72999451",
+    "balance": 5435.41,
+    "pin": 823770
+  },
+  {
+    "customer_id": "CC38454",
+    "number": "32095206",
+    "balance": 80260.07,
+    "pin": 898481
+  },
+  {
+    "customer_id": "CC99574",
+    "number": "24946230",
+    "balance": 88444.13,
+    "pin": 330178
+  },
+  {
+    "customer_id": "CC49405",
+    "number": "12190627",
+    "balance": 42143.89,
+    "pin": 474006
+  },
+  {
+    "customer_id": "CC50435",
+    "number": "77913317",
+    "balance": 88121.58,
+    "pin": 899301
+  },
+  {
+    "customer_id": "CC23811",
+    "number": "17753914",
+    "balance": 57603.35,
+    "pin": 964419
+  },
+  {
+    "customer_id": "CC65291",
+    "number": "22527367",
+    "balance": 61810.49,
+    "pin": 723507
+  },
+  {
+    "customer_id": "CC14086",
+    "number": "65536184",
+    "balance": 11999.74,
+    "pin": 729531
+  },
+  {
+    "customer_id": "CC60655",
+    "number": "61848108",
+    "balance": 71545.26,
+    "pin": 929876
+  },
+  {
+    "customer_id": "CC11740",
+    "number": "57748269",
+    "balance": 25436.6,
+    "pin": 219647
+  },
+  {
+    "customer_id": "CC15869",
+    "number": "30544291",
+    "balance": 89795.12,
+    "pin": 205044
+  },
+  {
+    "customer_id": "CC75364",
+    "number": "76119393",
+    "balance": 87772.64,
+    "pin": 657153
+  },
+  {
+    "customer_id": "CC62651",
+    "number": "48005214",
+    "balance": 62260.11,
+    "pin": 566219
+  },
+  {
+    "customer_id": "CC67765",
+    "number": "00643759",
+    "balance": 1267.61,
+    "pin": 313225
+  },
+  {
+    "customer_id": "CC81849",
+    "number": "17311036",
+    "balance": 50843.02,
+    "pin": 151953
+  },
+  {
+    "customer_id": "CC31397",
+    "number": "73878772",
+    "balance": 12602.69,
+    "pin": 969007
+  },
+  {
+    "customer_id": "CC98770",
+    "number": "16543270",
+    "balance": 51971.68,
+    "pin": 514929
+  },
+  {
+    "customer_id": "CC26680",
+    "number": "37009840",
+    "balance": 61580.42,
+    "pin": 748684
+  },
+  {
+    "customer_id": "CC67479",
+    "number": "34904814",
+    "balance": 8519.64,
+    "pin": 754349
+  },
+  {
+    "customer_id": "CC41564",
+    "number": "76570156",
+    "balance": 9253.08,
+    "pin": 223821
+  },
+  {
+    "customer_id": "CC41092",
+    "number": "09928406",
+    "balance": 91001.7,
+    "pin": 467402
+  },
+  {
+    "customer_id": "CC87589",
+    "number": "44816937",
+    "balance": 76354.17,
+    "pin": 709758
+  },
+  {
+    "customer_id": "CC77471",
+    "number": "32407732",
+    "balance": 34313.13,
+    "pin": 730999
+  },
+  {
+    "customer_id": "CC78255",
+    "number": "16377600",
+    "balance": 51468.35,
+    "pin": 556154
+  },
+  {
+    "customer_id": "CC28629",
+    "number": "74723150",
+    "balance": 37209.32,
+    "pin": 817656
+  },
+  {
+    "customer_id": "CC61345",
+    "number": "84707677",
+    "balance": 23134.97,
+    "pin": 994544
+  },
+  {
+    "customer_id": "CC33542",
+    "number": "00584680",
+    "balance": 35614.78,
+    "pin": 925535
+  },
+  {
+    "customer_id": "CC93394",
+    "number": "59995550",
+    "balance": 12579.63,
+    "pin": 336280
+  },
+  {
+    "customer_id": "CC87692",
+    "number": "05713022",
+    "balance": 19129.14,
+    "pin": 425302
+  },
+  {
+    "customer_id": "CC45675",
+    "number": "11562191",
+    "balance": 7572.03,
+    "pin": 807628
+  },
+  {
+    "customer_id": "CC24173",
+    "number": "99172558",
+    "balance": 70679.18,
+    "pin": 930653
+  },
+  {
+    "customer_id": "CC54697",
+    "number": "33588708",
+    "balance": 13513.7,
+    "pin": 538017
+  },
+  {
+    "customer_id": "CC44821",
+    "number": "91835929",
+    "balance": 40327.82,
+    "pin": 407143
+  },
+  {
+    "customer_id": "CC71658",
+    "number": "12874229",
+    "balance": 26829.47,
+    "pin": 866255
+  },
+  {
+    "customer_id": "CC89533",
+    "number": "48221973",
+    "balance": 90877.39,
+    "pin": 714850
+  },
+  {
+    "customer_id": "CC54001",
+    "number": "55104441",
+    "balance": 13929.96,
+    "pin": 353131
+  },
+  {
+    "customer_id": "CC56810",
+    "number": "50360696",
+    "balance": 96690.05,
+    "pin": 590757
+  },
+  {
+    "customer_id": "CC84647",
+    "number": "52735962",
+    "balance": 49451.92,
+    "pin": 587886
+  },
+  {
+    "customer_id": "CC29689",
+    "number": "02077759",
+    "balance": 87756.58,
+    "pin": 476684
+  },
+  {
+    "customer_id": "CC84603",
+    "number": "16358721",
+    "balance": 86593.52,
+    "pin": 702463
+  },
+  {
+    "customer_id": "CC27837",
+    "number": "99009561",
+    "balance": 53978.41,
+    "pin": 942424
+  },
+  {
+    "customer_id": "CC43212",
+    "number": "40701077",
+    "balance": 41755.52,
+    "pin": 207536
+  },
+  {
+    "customer_id": "CC99031",
+    "number": "43589955",
+    "balance": 67722.7,
+    "pin": 511060
+  },
+  {
+    "customer_id": "CC66918",
+    "number": "94046853",
+    "balance": 93250.13,
+    "pin": 694605
+  },
+  {
+    "customer_id": "CC70915",
+    "number": "07275262",
+    "balance": 51842.89,
+    "pin": 333070
+  },
+  {
+    "customer_id": "CC20989",
+    "number": "13471767",
+    "balance": 73017.26,
+    "pin": 305170
+  },
+  {
+    "customer_id": "CC24235",
+    "number": "61360525",
+    "balance": 40549.75,
+    "pin": 214298
+  },
+  {
+    "customer_id": "CC71449",
+    "number": "10741575",
+    "balance": 21155.08,
+    "pin": 929740
+  },
+  {
+    "customer_id": "CC85396",
+    "number": "97049540",
+    "balance": 82485.53,
+    "pin": 669780
+  },
+  {
+    "customer_id": "CC67117",
+    "number": "70194385",
+    "balance": 92202.97,
+    "pin": 680369
+  },
+  {
+    "customer_id": "CC81126",
+    "number": "58310491",
+    "balance": 29398.56,
+    "pin": 345943
+  },
+  {
+    "customer_id": "CC13441",
+    "number": "78144232",
+    "balance": 87623.29,
+    "pin": 476698
+  },
+  {
+    "customer_id": "CC98770",
+    "number": "73463490",
+    "balance": 98841.44,
+    "pin": 386660
+  },
+  {
+    "customer_id": "CC89544",
+    "number": "35595385",
+    "balance": 56311.36,
+    "pin": 419064
+  },
+  {
+    "customer_id": "CC85648",
+    "number": "63305381",
+    "balance": 58826.23,
+    "pin": 993526
+  },
+  {
+    "customer_id": "CC52241",
+    "number": "98954768",
+    "balance": 40959.51,
+    "pin": 713757
+  },
+  {
+    "customer_id": "CC15649",
+    "number": "30193605",
+    "balance": 50335.04,
+    "pin": 648516
+  },
+  {
+    "customer_id": "CC55117",
+    "number": "95050054",
+    "balance": 46928.12,
+    "pin": 415127
+  },
+  {
+    "customer_id": "CC44154",
+    "number": "49482539",
+    "balance": 47963.48,
+    "pin": 965129
+  },
+  {
+    "customer_id": "CC76409",
+    "number": "05251984",
+    "balance": 94105.95,
+    "pin": 834638
+  },
+  {
+    "customer_id": "CC44055",
+    "number": "01169988",
+    "balance": 82802.74,
+    "pin": 628138
+  },
+  {
+    "customer_id": "CC36590",
+    "number": "97376812",
+    "balance": 90329.9,
+    "pin": 941296
+  },
+  {
+    "customer_id": "CC46960",
+    "number": "60049225",
+    "balance": 85771.04,
+    "pin": 226806
+  },
+  {
+    "customer_id": "CC27362",
+    "number": "22565609",
+    "balance": 91007.47,
+    "pin": 107051
+  },
+  {
+    "customer_id": "CC43475",
+    "number": "84287062",
+    "balance": 300.86,
+    "pin": 484826
+  },
+  {
+    "customer_id": "CC99187",
+    "number": "03733742",
+    "balance": 23392.51,
+    "pin": 431029
+  },
+  {
+    "customer_id": "CC23717",
+    "number": "95298348",
+    "balance": 82541.02,
+    "pin": 682221
+  },
+  {
+    "customer_id": "CC20348",
+    "number": "83651453",
+    "balance": 2003.92,
+    "pin": 743311
+  },
+  {
+    "customer_id": "CC53713",
+    "number": "76748214",
+    "balance": 40473.74,
+    "pin": 497067
+  },
+  {
+    "customer_id": "CC78373",
+    "number": "48444053",
+    "balance": 56691.21,
+    "pin": 339955
+  },
+  {
+    "customer_id": "CC98042",
+    "number": "51941096",
+    "balance": 8917.6,
+    "pin": 167180
+  },
+  {
+    "customer_id": "CC24142",
+    "number": "16593749",
+    "balance": 72944.34,
+    "pin": 342896
+  },
+  {
+    "customer_id": "CC45238",
+    "number": "05785691",
+    "balance": 77520.59,
+    "pin": 771823
+  },
+  {
+    "customer_id": "CC21335",
+    "number": "64733670",
+    "balance": 48356.67,
+    "pin": 307279
+  },
+  {
+    "customer_id": "CC99702",
+    "number": "29893635",
+    "balance": 2113.98,
+    "pin": 906350
+  },
+  {
+    "customer_id": "CC53182",
+    "number": "96485073",
+    "balance": 16190.98,
+    "pin": 542113
+  },
+  {
+    "customer_id": "CC18454",
+    "number": "49821832",
+    "balance": 66070.4,
+    "pin": 651764
+  },
+  {
+    "customer_id": "CC26250",
+    "number": "38467354",
+    "balance": 80624.92,
+    "pin": 698027
+  },
+  {
+    "customer_id": "CC24107",
+    "number": "97270237",
+    "balance": 90885.81,
+    "pin": 205162
+  },
+  {
+    "customer_id": "CC31134",
+    "number": "99400838",
+    "balance": 10235.35,
+    "pin": 539126
+  },
+  {
+    "customer_id": "CC19389",
+    "number": "90054235",
+    "balance": 66922.64,
+    "pin": 262467
+  },
+  {
+    "customer_id": "CC24379",
+    "number": "81028755",
+    "balance": 3495.95,
+    "pin": 874247
+  },
+  {
+    "customer_id": "CC97796",
+    "number": "06888281",
+    "balance": 32476.77,
+    "pin": 680044
+  }
+]

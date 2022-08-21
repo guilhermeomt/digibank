@@ -22,7 +22,9 @@ Este repositório contém o código-fonte para a plataforma web do digibank. O p
 ## Futuras Implementações
 
 - [ ] Implementar mock de API
-- [ ] Implementar autenticação e autorização
+- [ ] Implementar autenticação
+- [ ] Responsividade
+- [ ] Implementar dashboard de clientes
 
 ## Como executar
 

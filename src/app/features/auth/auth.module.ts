@@ -1,5 +1,6 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
+import { HttpClientModule } from '@angular/common/http';
 
 import { AuthRoutingModule } from './auth-routing.module';
 import { SharedModule } from 'src/app/shared/shared.module';
@@ -12,14 +13,15 @@ import { TablerPig, TablerHandClick } from '@ng-icons/tabler-icons';
   declarations: [SignupComponent],
   imports: [
     CommonModule,
-    AuthRoutingModule,
-    SharedModule,
+    HttpClientModule,
     NgIconsModule.withIcons({
       FeatherUser,
       FeatherCreditCard,
       TablerPig,
       TablerHandClick,
     }),
+    AuthRoutingModule,
+    SharedModule,
   ],
 })
 export class AuthModule {}
